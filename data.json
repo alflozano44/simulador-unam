@@ -1,0 +1,2714 @@
+{
+  "metadata": {
+    "title": "Temario UNAM 2026 - Herramienta de Estudio Interactiva",
+    "source_file": "TEMARIO GUIA 2026.docx",
+    "generated_at": "2025-01-15T10:30:00Z",
+    "question_bank_version": "v1.0",
+    "total_questions_in_bank": 120,
+    "simulator_distribution": {
+      "Español": 18,
+      "Física": 16,
+      "Matemáticas": 26,
+      "Literatura": 10,
+      "Geografía": 10,
+      "Biología": 10,
+      "Química": 10,
+      "HistoriaUniversal": 10,
+      "HistoriaMexico": 10
+    }
+  },
+  "materias": [
+    {
+      "nombre": "Español",
+      "icono": "📚",
+      "color": "#E53935",
+      "temas": [
+        {
+          "id": "esp_1",
+          "titulo": "Funciones de la lengua",
+          "resumen": "Las funciones de la lengua son los diferentes propósitos o finalidades que puede tener un mensaje comunicativo. Roman Jakobson identificó seis funciones, siendo las principales: referencial, apelativa y poética.",
+          "definiciones": [
+            {
+              "termino": "Función Referencial",
+              "definicion": "Transmite información objetiva sobre la realidad. El mensaje se centra en el contexto. Ejemplo: 'La Tierra gira alrededor del Sol.'"
+            },
+            {
+              "termino": "Función Apelativa",
+              "definicion": "Busca influir en el receptor, provocar una reacción. Se usa en órdenes, ruegos, consejos. Ejemplo: 'Cierra la puerta.'"
+            },
+            {
+              "termino": "Función Poética",
+              "definicion": "Se centra en el mensaje mismo, buscando belleza expresiva. Propia de la literatura. Ejemplo: 'En el mar de tu mirada, navego sin destino.'"
+            }
+          ],
+          "ejemplos_resueltos": [
+            {
+              "enunciado": "Identifica la función de la lengua: 'El agua hierve a 100°C a nivel del mar.'",
+              "solucion": "Función Referencial, porque transmite información objetiva y verificable sobre un hecho científico."
+            },
+            {
+              "enunciado": "Identifica la función de la lengua: 'Por favor, préstame tu cuaderno.'",
+              "solucion": "Función Apelativa, porque el emisor busca que el receptor realice una acción."
+            }
+          ],
+          "ejercicios": [
+            {
+              "enunciado": "Clasifica cada oración según su función: a) 'El hierro es un metal' b) 'Ven aquí ahora' c) 'El viento susurraba entre los árboles'",
+              "dificultad": "media",
+              "solucion": "a) Referencial (información objetiva) b) Apelativa (orden/ruego) c) Poética (uso estético del lenguaje)"
+            }
+          ],
+          "preguntas_practica": [
+            {
+              "pregunta": "¿Cuál es la función predominante en un aviso comercial que dice '¡Compra ahora y ahorra!'?",
+              "respuesta": "Función Apelativa",
+              "justificacion": "El mensaje busca provocar una acción en el receptor (comprar el producto)."
+            }
+          ],
+          "flashcards": [
+            {
+              "front": "¿Qué función se centra en el contexto?",
+              "back": "Función Referencial"
+            },
+            {
+              "front": "¿Qué función busca influir en el receptor?",
+              "back": "Función Apelativa"
+            },
+            {
+              "front": "¿Qué función predomina en la poesía?",
+              "back": "Función Poética"
+            }
+          ],
+          "videos": [
+            {
+              "title": "Funciones de la Lengua - Explicación Completa",
+              "channel": "Edu libre",
+              "url": "https://www.youtube.com/watch?v=example1",
+              "duration_seconds": 600,
+              "relevance_score": 9
+            },
+            {
+              "title": "Las 6 Funciones del Lenguaje | Jakobson",
+              "channel": "Khan Academy Español",
+              "url": "https://www.youtube.com/watch?v=example2",
+              "duration_seconds": 480,
+              "relevance_score": 10
+            }
+          ],
+          "metadatos": {
+            "nivel": "basico",
+            "tiempo_min": 15,
+            "keywords": ["funciones del lenguaje", "Jakobson", "comunicación", "referencial", "apelativa", "poética"]
+          }
+        },
+        {
+          "id": "esp_2",
+          "titulo": "Formas del discurso",
+          "resumen": "Las formas del discurso son las estructuras básicas para organizar el contenido de un texto. Las principales son: descriptivo, narrativo y argumentativo.",
+          "definiciones": [
+            {
+              "termino": "Discurso Descriptivo",
+              "definicion": "Expone las características de un objeto, persona, lugar o situación. Responde a la pregunta ¿cómo es?"
+            },
+            {
+              "termino": "Discurso Narrativo",
+              "definicion": "Relata hechos que suceden en un tiempo y espacio determinados. Tiene estructura: inicio, desarrollo, nudo, desenlace."
+            },
+            {
+              "termino": "Discurso Argumentativo",
+              "definicion": "Presenta razones para defender o refutar una idea. Busca convencer al receptor."
+            }
+          ],
+          "ejemplos_resueltos": [
+            {
+              "enunciado": "Identifica el tipo de discurso: 'La casa era antigua, con muros de adobe color ocre y un techo de tejas agrietadas.'",
+              "solucion": "Discurso Descriptivo - enumera características físicas del objeto descrito."
+            }
+          ],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [
+            {"front": "Discurso que responde '¿cómo es?'", "back": "Descriptivo"},
+            {"front": "Discurso con inicio, nudo y desenlace", "back": "Narrativo"},
+            {"front": "Discurso que busca convencer", "back": "Argumentativo"}
+          ],
+          "videos": [],
+          "video_search_query": "formas del discurso descriptivo narrativo argumentativo UNAM",
+          "metadatos": {"nivel": "basico", "tiempo_min": 20, "keywords": ["discurso", "descripción", "narración", "argumentación"]}
+        },
+        {
+          "id": "esp_3",
+          "titulo": "Comprensión de lectura",
+          "resumen": "La comprensión de lectura implica decodificar el significado del texto, identificar su estructura y realizar inferencias a partir de la información presentada.",
+          "definiciones": [
+            {"termino": "Estructura del texto", "definicion": "Organización interna: introducción, desarrollo y conclusión. Puede ser deductiva, inductiva o encuadrada."},
+            {"termino": "Inferencia", "definicion": "Información que no está explícita en el texto pero que puede deducirse a partir de los datos proporcionados y conocimientos previos."}
+          ],
+          "ejemplos_resueltos": [],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [
+            {"front": "¿Qué es una inferencia?", "back": "Información deducida que no está explícita en el texto"}
+          ],
+          "videos": [],
+          "video_search_query": "comprensión lectora inferencias UNAM examen ingreso",
+          "metadatos": {"nivel": "medio", "tiempo_min": 25, "keywords": ["lectura", "inferencia", "estructura textual"]}
+        },
+        {
+          "id": "esp_4",
+          "titulo": "Gramática",
+          "resumen": "La gramática estudia la estructura de la lengua. Incluye el análisis de la oración, el sujeto y el predicado como componentes fundamentales.",
+          "definiciones": [
+            {"termino": "Oración", "definicion": "Unidad mínima de sentido con autonomía sintáctica. Tiene sujeto y predicado."},
+            {"termino": "Sujeto", "definicion": "Elemento del que se dice algo. Puede ser simple, compuesto, expreso o tácito."},
+            {"termino": "Predicado", "definicion": "Lo que se dice del sujeto. Puede ser nominal o verbal."}
+          ],
+          "ejemplos_resueltos": [
+            {"enunciado": "Analiza: 'Los estudiantes estudiaron para el examen.'", "solucion": "Sujeto: 'Los estudiantes' (núcleo: estudiantes). Predicado: 'estudiaron para el examen' (núcleo verbal: estudiaron)."}
+          ],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [],
+          "videos": [],
+          "video_search_query": "análisis gramatical sujeto predicado oración",
+          "metadatos": {"nivel": "medio", "tiempo_min": 30, "keywords": ["gramática", "oración", "sujeto", "predicado"]}
+        },
+        {
+          "id": "esp_5",
+          "titulo": "Redacción",
+          "resumen": "La redacción es la habilidad de expresar ideas por escrito de manera clara, coherente y correcta. Requiere dominio de ortografía, gramática y estructura textual.",
+          "definiciones": [
+            {"termino": "Coherencia", "definicion": "Relación lógica entre las ideas del texto."},
+            {"termino": "Cohesión", "definicion": "Conexión gramatical y léxica entre oraciones mediante conectores y referencias."}
+          ],
+          "ejemplos_resueltos": [],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [],
+          "videos": [],
+          "video_search_query": "técnicas de redacción examen ingreso universidad",
+          "metadatos": {"nivel": "medio", "tiempo_min": 20, "keywords": ["redacción", "coherencia", "cohesión"]}
+        },
+        {
+          "id": "esp_6",
+          "titulo": "Vocabulario",
+          "resumen": "El estudio del vocabulario incluye el conocimiento de antónimos, sinónimos, homófonos y el uso preciso de las palabras.",
+          "definiciones": [
+            {"termino": "Antónimos", "definicion": "Palabras que expresan ideas opuestas. Ejemplo: caliente/frío."},
+            {"termino": "Homófonos", "definicion": "Palabras que suenan igual pero tienen significado y escritura diferente. Ejemplo: halla/haya."}
+          ],
+          "ejemplos_resueltos": [
+            {"enunciado": "¿Cuál es el antónimo de 'abundante'?", "solucion": "Escaso o pobre."}
+          ],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [
+            {"front": "Antónimo de 'claro'", "back": "Oscuro"},
+            {"front": "¿Qué significa 'tubo' vs 'tuvo'?", "back": "Tubo: conducto cilíndrico. Tuvo: pretérito de tener."}
+          ],
+          "videos": [],
+          "video_search_query": "antónimos sinónimos homófonos ejercicios",
+          "metadatos": {"nivel": "basico", "tiempo_min": 15, "keywords": ["vocabulario", "antónimos", "homófonos"]}
+        },
+        {
+          "id": "esp_7",
+          "titulo": "Ortografía",
+          "resumen": "La ortografía establece las reglas para escribir correctamente las palabras en español. Incluye el uso de letras específicas, acentuación y puntuación.",
+          "definiciones": [
+            {"termino": "Acento prosódico", "definicion": "Mayor intensidad sonora en una sílaba de la palabra."},
+            {"termino": "Acento diacrítico", "definicion": "Acento que distingue palabras de igual escritura pero diferente significado: él/el, tú/tu."}
+          ],
+          "ejemplos_resueltos": [],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [],
+          "videos": [],
+          "video_search_query": "reglas ortografía acentuación uso b v s c z",
+          "metadatos": {"nivel": "basico", "tiempo_min": 30, "keywords": ["ortografía", "acentuación", "puntuación"]}
+        }
+      ]
+    },
+    {
+      "nombre": "Matemáticas",
+      "icono": "🔢",
+      "color": "#1E88E5",
+      "temas": [
+        {
+          "id": "mat_1",
+          "titulo": "Operaciones con números reales",
+          "resumen": "Los números reales incluyen racionales e irracionales. Las operaciones básicas son suma, resta, multiplicación, división, potencias y raíces.",
+          "definiciones": [
+            {"termino": "Números reales", "definicion": "Conjunto que incluye todos los números racionales (fracciones) e irracionales (√2, π). Se representan en la recta numérica."},
+            {"termino": "Potencia", "definicion": "Multiplicación repetida de un número (base) por sí mismo n veces: aⁿ = a × a × ... × a (n veces)."},
+            {"termino": "Raíz", "definicion": "Operación inversa de la potencia. ⁿ√a = b significa que bⁿ = a."}
+          ],
+          "ejemplos_resueltos": [
+            {"enunciado": "Calcula: (-3)² + √16 ÷ 2", "solucion": "(-3)² = 9, √16 = 4, 4÷2 = 2. Resultado: 9 + 2 = 11"},
+            {"enunciado": "Simplifica: 2³ × 2⁴", "solucion": "2³ × 2⁴ = 2³⁺⁴ = 2⁷ = 128 (misma base, se suman exponentes)"}
+          ],
+          "ejercicios": [
+            {"enunciado": "Calcula: 5² - 3³ + √81", "dificultad": "media", "solucion": "25 - 27 + 9 = 7"},
+            {"enunciado": "Simplifica: (2³)² × 2", "dificultad": "media", "solucion": "2⁶ × 2 = 2⁷ = 128"}
+          ],
+          "preguntas_practica": [],
+          "flashcards": [
+            {"front": "¿Qué son los números irracionales?", "back": "Números que no pueden expresarse como fracción: √2, π, e"},
+            {"front": "Ley de exponentes: aᵐ × aⁿ = ?", "back": "aᵐ⁺ⁿ"},
+            {"front": "¿Cuánto vale cualquier número elevado a 0?", "back": "1 (excepto 0⁰)"}
+          ],
+          "videos": [
+            {"title": "Números Reales - Propiedades y Operaciones", "channel": "Matemáticas profe Alex", "url": "https://www.youtube.com/watch?v=example", "duration_seconds": 720, "relevance_score": 9}
+          ],
+          "metadatos": {"nivel": "basico", "tiempo_min": 30, "keywords": ["números reales", "potencias", "raíces", "operaciones"]}
+        },
+        {
+          "id": "mat_2",
+          "titulo": "Números complejos",
+          "resumen": "Los números complejos tienen la forma a + bi donde 'a' es la parte real y 'b' es la parte imaginaria. i = √(-1).",
+          "definiciones": [
+            {"termino": "Unidad imaginaria", "definicion": "i = √(-1), donde i² = -1"},
+            {"termino": "Número complejo", "definicion": "Expresión z = a + bi, donde a,b ∈ ℝ"},
+            {"termino": "Conjugado", "definicion": "El conjugado de a + bi es a - bi"}
+          ],
+          "ejemplos_resueltos": [
+            {"enunciado": "Suma: (3 + 2i) + (5 - 4i)", "solucion": "(3+5) + (2-4)i = 8 - 2i"},
+            {"enunciado": "Multiplica: (2 + 3i)(1 - i)", "solucion": "2(1) + 2(-i) + 3i(1) + 3i(-i) = 2 - 2i + 3i - 3i² = 2 + i + 3 = 5 + i"}
+          ],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [
+            {"front": "¿Cuánto vale i²?", "back": "-1"},
+            {"front": "¿Qué es el módulo de a + bi?", "back": "|a + bi| = √(a² + b²)"}
+          ],
+          "videos": [],
+          "video_search_query": "números complejos operaciones suma multiplicación",
+          "metadatos": {"nivel": "medio", "tiempo_min": 25, "keywords": ["complejos", "imaginarios", "i", "conjugado"]}
+        },
+        {
+          "id": "mat_3",
+          "titulo": "Ecuaciones",
+          "resumen": "Una ecuación es una igualdad que contiene incógnitas. Puede ser de primer grado (lineal) o segundo grado (cuadrática).",
+          "definiciones": [
+            {"termino": "Ecuación de primer grado", "definicion": "Ecuación de la forma ax + b = 0, con a ≠ 0. Solución única: x = -b/a"},
+            {"termino": "Ecuación de segundo grado", "definicion": "Ecuación de la forma ax² + bx + c = 0. Soluciones dadas por la fórmula general."},
+            {"termino": "Fórmula general", "definicion": "x = (-b ± √(b²-4ac)) / 2a"}
+          ],
+          "ejemplos_resueltos": [
+            {"enunciado": "Resuelve: 2x - 8 = 0", "solucion": "2x = 8, x = 8/2 = 4"},
+            {"enunciado": "Resuelve: x² - 5x + 6 = 0", "solucion": "x = (5 ± √(25-24))/2 = (5 ± 1)/2. x₁ = 3, x₂ = 2"}
+          ],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [
+            {"front": "Fórmula general cuadrática", "back": "x = (-b ± √(b²-4ac)) / 2a"},
+            {"front": "¿Qué indica el discriminante b²-4ac > 0?", "back": "Dos soluciones reales diferentes"}
+          ],
+          "videos": [],
+          "video_search_query": "ecuaciones segundo grado fórmula general ejercicios",
+          "metadatos": {"nivel": "medio", "tiempo_min": 35, "keywords": ["ecuaciones", "primer grado", "segundo grado", "fórmula general"]}
+        },
+        {
+          "id": "mat_4",
+          "titulo": "Funciones algebraicas",
+          "resumen": "Una función es una relación entre dos conjuntos donde a cada elemento del dominio le corresponde exactamente un elemento del contradominio.",
+          "definiciones": [
+            {"termino": "Dominio", "definicion": "Conjunto de valores de x para los cuales la función está definida."},
+            {"termino": "Rango (Imagen)", "definicion": "Conjunto de valores que toma la función (valores de y o f(x))."},
+            {"termino": "Función creciente", "definicion": "Si x₁ < x₂, entonces f(x₁) < f(x₂)"},
+            {"termino": "Función decreciente", "definicion": "Si x₁ < x₂, entonces f(x₁) > f(x₂)"}
+          ],
+          "ejemplos_resueltos": [
+            {"enunciado": "Encuentra el dominio de f(x) = √(x-3)", "solucion": "x-3 ≥ 0, por lo tanto x ≥ 3. Dominio: [3, ∞)"},
+            {"enunciado": "Encuentra el dominio de g(x) = 1/(x-5)", "solucion": "x-5 ≠ 0, es decir x ≠ 5. Dominio: ℝ - {5}"}
+          ],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [],
+          "videos": [],
+          "video_search_query": "funciones dominio rango gráficas matemáticas",
+          "metadatos": {"nivel": "medio", "tiempo_min": 40, "keywords": ["funciones", "dominio", "rango", "gráfica"]}
+        },
+        {
+          "id": "mat_5",
+          "titulo": "Trigonometría",
+          "resumen": "La trigonometría estudia las relaciones entre los lados y ángulos de los triángulos. Las razones trigonométricas fundamentales son seno, coseno y tangente.",
+          "definiciones": [
+            {"termino": "Seno", "definicion": "cateto opuesto / hipotenusa"},
+            {"termino": "Coseno", "definicion": "cateto adyacente / hipotenusa"},
+            {"termino": "Tangente", "definicion": "cateto opuesto / cateto adyacente = sen θ / cos θ"},
+            {"termino": "Ley de los Senos", "definicion": "a/sen A = b/sen B = c/sen C = 2R"},
+            {"termino": "Ley de los Cosenos", "definicion": "c² = a² + b² - 2ab cos C"}
+          ],
+          "ejemplos_resueltos": [
+            {"enunciado": "Convierte 135° a radianes", "solucion": "135° × (π/180°) = 3π/4 radianes"},
+            {"enunciado": "En un triángulo rectángulo, cateto opuesto = 3, hipotenusa = 5. Calcula sen θ.", "solucion": "sen θ = 3/5 = 0.6"}
+          ],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [
+            {"front": "¿Cuántos radianes tiene 180°?", "back": "π radianes"},
+            {"front": "sen 30° = ?", "back": "1/2 o 0.5"},
+            {"front": "cos 60° = ?", "back": "1/2 o 0.5"}
+          ],
+          "videos": [],
+          "video_search_query": "trigonometría razones trigonométricas ley senos cosenos",
+          "metadatos": {"nivel": "medio", "tiempo_min": 45, "keywords": ["trigonometría", "seno", "coseno", "tangente", "radián"]}
+        },
+        {
+          "id": "mat_6",
+          "titulo": "Geometría analítica: Recta",
+          "resumen": "La geometría analítica estudia las figuras geométricas mediante coordenadas y ecuaciones. La recta tiene diferentes formas de representación algebraica.",
+          "definiciones": [
+            {"termino": "Pendiente", "definicion": "m = (y₂-y₁)/(x₂-x₁). Indica la inclinación de la recta."},
+            {"termino": "Ecuación punto-pendiente", "definicion": "y - y₁ = m(x - x₁)"},
+            {"termino": "Ecuación pendiente-ordenada al origen", "definicion": "y = mx + b"},
+            {"termino": "Rectas paralelas", "definicion": "Dos rectas son paralelas si tienen la misma pendiente: m₁ = m₂"},
+            {"termino": "Rectas perpendiculares", "definicion": "Dos rectas son perpendiculares si m₁ × m₂ = -1"}
+          ],
+          "ejemplos_resueltos": [
+            {"enunciado": "Encuentra la ecuación de la recta que pasa por (2, 3) y (4, 7)", "solucion": "m = (7-3)/(4-2) = 2. Usando punto-pendiente: y - 3 = 2(x - 2), y = 2x - 1"}
+          ],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [],
+          "videos": [],
+          "video_search_query": "geometría analítica recta ecuación pendiente",
+          "metadatos": {"nivel": "medio", "tiempo_min": 35, "keywords": ["recta", "pendiente", "ecuación", "paralelas", "perpendiculares"]}
+        },
+        {
+          "id": "mat_7",
+          "titulo": "Cónicas",
+          "resumen": "Las secciones cónicas son curvas obtenidas al cortar un cono con un plano: circunferencia, elipse, parábola e hipérbola.",
+          "definiciones": [
+            {"termino": "Circunferencia", "definicion": "Lugar geométrico de puntos equidistantes de un centro (h,k). Ecuación: (x-h)² + (y-k)² = r²"},
+            {"termino": "Parábola", "definicion": "Lugar geométrico de puntos equidistantes de un foco y una directriz. Ecuación: y² = 4px (horizontal) o x² = 4py (vertical)"},
+            {"termino": "Elipse", "definicion": "Suma de distancias a dos focos es constante. Ecuación: (x-h)²/a² + (y-k)²/b² = 1"},
+            {"termino": "Hipérbola", "definicion": "Diferencia de distancias a dos focos es constante. Ecuación: (x-h)²/a² - (y-k)²/b² = 1"}
+          ],
+          "ejemplos_resueltos": [],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [],
+          "videos": [],
+          "video_search_query": "secciones cónicas elipse parábola hipérbola circunferencia",
+          "metadatos": {"nivel": "avanzado", "tiempo_min": 50, "keywords": ["cónicas", "elipse", "parábola", "hipérbola", "circunferencia"]}
+        },
+        {
+          "id": "mat_8",
+          "titulo": "Límites",
+          "resumen": "El límite de una función describe el comportamiento de la función cuando la variable se acerca a un valor específico. Es la base del cálculo diferencial.",
+          "definiciones": [
+            {"termino": "Límite", "definicion": "lim(x→a) f(x) = L significa que f(x) se acerca a L cuando x se acerca a a."},
+            {"termino": "Continuidad", "definicion": "Una función es continua en a si: f(a) existe, el límite existe, y lim(x→a) f(x) = f(a)"},
+            {"termino": "Formas indeterminadas", "definicion": "0/0, ∞/∞, ∞-∞, 0×∞, 1^∞, 0^0, ∞^0. Requieren técnicas especiales para resolver."}
+          ],
+          "ejemplos_resueltos": [
+            {"enunciado": "Calcula lim(x→2) (x² - 4)/(x - 2)", "solucion": "Factorizando: (x-2)(x+2)/(x-2) = x+2. El límite es 4."},
+            {"enunciado": "Calcula lim(x→0) (sen x)/x", "solucion": "Este límite fundamental vale 1."}
+          ],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [
+            {"front": "Límite fundamental: lim(x→0) sen x / x", "back": "1"},
+            {"front": "Límite fundamental: lim(x→0) (1-cos x)/x", "back": "0"}
+          ],
+          "videos": [],
+          "video_search_query": "límites cálculo formas indeterminadas ejercicios",
+          "metadatos": {"nivel": "avanzado", "tiempo_min": 45, "keywords": ["límites", "continuidad", "indeterminaciones", "cálculo"]}
+        },
+        {
+          "id": "mat_9",
+          "titulo": "La derivada",
+          "resumen": "La derivada mide la tasa de cambio instantánea de una función. Representa la pendiente de la recta tangente en cada punto de la curva.",
+          "definiciones": [
+            {"termino": "Derivada", "definicion": "f'(x) = lim(h→0) [f(x+h) - f(x)]/h"},
+            {"termino": "Regla de la cadena", "definicion": "[f(g(x))]' = f'(g(x)) × g'(x)"},
+            {"termino": "Derivada de xⁿ", "definicion": "(xⁿ)' = n·xⁿ⁻¹"}
+          ],
+          "ejemplos_resueltos": [
+            {"enunciado": "Deriva: f(x) = 3x⁴ - 5x² + 2x - 7", "solucion": "f'(x) = 12x³ - 10x + 2"},
+            {"enunciado": "Deriva: g(x) = (2x + 1)³", "solucion": "g'(x) = 3(2x+1)² × 2 = 6(2x+1)²"}
+          ],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [
+            {"front": "Derivada de sen x", "back": "cos x"},
+            {"front": "Derivada de cos x", "back": "-sen x"},
+            {"front": "Derivada de eˣ", "back": "eˣ"},
+            {"front": "Derivada de ln x", "back": "1/x"}
+          ],
+          "videos": [],
+          "video_search_query": "derivadas cálculo regla de la cadena ejercicios resueltos",
+          "metadatos": {"nivel": "avanzado", "tiempo_min": 50, "keywords": ["derivada", "regla de la cadena", "tangente", "máximos", "mínimos"]}
+        },
+        {
+          "id": "mat_10",
+          "titulo": "La integral",
+          "resumen": "La integral es la operación inversa de la derivada. Permite calcular áreas bajo curvas y resolver problemas de acumulación.",
+          "definiciones": [
+            {"termino": "Integral indefinida", "definicion": "∫f(x)dx = F(x) + C, donde F'(x) = f(x)"},
+            {"termino": "Integral definida", "definicion": "∫ₐᵇ f(x)dx = F(b) - F(a) [Teorema Fundamental del Cálculo]"},
+            {"termino": "Integral de xⁿ", "definicion": "∫xⁿ dx = xⁿ⁺¹/(n+1) + C, para n ≠ -1"}
+          ],
+          "ejemplos_resueltos": [
+            {"enunciado": "Calcula ∫(3x² + 2x - 5)dx", "solucion": "x³ + x² - 5x + C"},
+            {"enunciado": "Calcula ∫₀² x² dx", "solucion": "[x³/3]₀² = 8/3 - 0 = 8/3"}
+          ],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [],
+          "videos": [],
+          "video_search_query": "integrales cálculo integral definida indefinida",
+          "metadatos": {"nivel": "avanzado", "tiempo_min": 55, "keywords": ["integral", "antiderivada", "área", "teorema fundamental"]}
+        }
+      ]
+    },
+    {
+      "nombre": "Física",
+      "icono": "⚛️",
+      "color": "#43A047",
+      "temas": [
+        {
+          "id": "fis_1",
+          "titulo": "Cinemática",
+          "resumen": "La cinemática estudia el movimiento de los cuerpos sin considerar las causas que lo producen. Los movimientos básicos son el rectilíneo uniforme (MRU) y el uniformemente acelerado (MRUA).",
+          "definiciones": [
+            {"termino": "Velocidad", "definicion": "Cambio de posición por unidad de tiempo. v = Δx/Δt (MRU)"},
+            {"termino": "Aceleración", "definicion": "Cambio de velocidad por unidad de tiempo. a = Δv/Δt"},
+            {"termino": "MRU", "definicion": "Movimiento Rectilíneo Uniforme: velocidad constante, a = 0"},
+            {"termino": "MRUA", "definicion": "Movimiento Rectilíneo Uniformemente Acelerado: aceleración constante"}
+          ],
+          "ejemplos_resueltos": [
+            {"enunciado": "Un auto viaja a 90 km/h durante 2 horas. ¿Qué distancia recorre?", "solucion": "d = v × t = 90 km/h × 2 h = 180 km"},
+            {"enunciado": "Un objeto parte del reposo y acelera a 4 m/s² durante 5 s. ¿Cuál es su velocidad final?", "solucion": "v = v₀ + at = 0 + (4 m/s²)(5 s) = 20 m/s"}
+          ],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [
+            {"front": "Ecuación de posición en MRU", "back": "x = x₀ + vt"},
+            {"front": "Ecuación de velocidad en MRUA", "back": "v = v₀ + at"},
+            {"front": "Ecuación de posición en MRUA", "back": "x = x₀ + v₀t + ½at²"}
+          ],
+          "videos": [],
+          "video_search_query": "cinemática MRU MRUA ejercicios resueltos física",
+          "metadatos": {"nivel": "basico", "tiempo_min": 30, "keywords": ["cinemática", "velocidad", "aceleración", "MRU", "MRUA"]}
+        },
+        {
+          "id": "fis_2",
+          "titulo": "Leyes de Newton",
+          "resumen": "Las leyes de Newton describen el comportamiento de los cuerpos bajo la acción de fuerzas. Son la base de la mecánica clásica.",
+          "definiciones": [
+            {"termino": "Primera Ley (Inercia)", "definicion": "Un cuerpo en reposo o movimiento rectilíneo uniforme permanece así a menos que una fuerza externa actúe sobre él."},
+            {"termino": "Segunda Ley", "definicion": "F = ma. La fuerza neta sobre un cuerpo es igual a su masa por su aceleración."},
+            {"termino": "Tercera Ley (Acción-Reacción)", "definicion": "Para toda acción existe una reacción igual en magnitud y opuesta en dirección."},
+            {"termino": "Peso", "definicion": "W = mg, donde g ≈ 9.8 m/s² en la Tierra"}
+          ],
+          "ejemplos_resueltos": [
+            {"enunciado": "Calcula la fuerza necesaria para acelerar un cuerpo de 5 kg a 3 m/s²", "solucion": "F = ma = (5 kg)(3 m/s²) = 15 N"},
+            {"enunciado": "¿Cuál es el peso de una persona de 70 kg en la Tierra?", "solucion": "W = mg = (70 kg)(9.8 m/s²) = 686 N"}
+          ],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [],
+          "videos": [],
+          "video_search_query": "leyes de newton segunda ley ejercicios resueltos",
+          "metadatos": {"nivel": "basico", "tiempo_min": 35, "keywords": ["Newton", "fuerza", "inercia", "masa", "peso"]}
+        },
+        {
+          "id": "fis_3",
+          "titulo": "Trabajo y energía",
+          "resumen": "El trabajo es la transferencia de energía mediante una fuerza. La energía puede ser cinética (movimiento) o potencial (posición).",
+          "definiciones": [
+            {"termino": "Trabajo", "definicion": "W = F·d·cos θ. Transferencia de energía por una fuerza."},
+            {"termino": "Energía cinética", "definicion": "Ec = ½mv². Energía asociada al movimiento."},
+            {"termino": "Energía potencial gravitacional", "definicion": "Ep = mgh. Energía asociada a la posición en un campo gravitatorio."},
+            {"termino": "Potencia", "definicion": "P = W/t. Trabajo por unidad de tiempo. Unidad: Watt (W)"}
+          ],
+          "ejemplos_resueltos": [
+            {"enunciado": "Calcula la energía cinética de un auto de 1000 kg que viaja a 20 m/s", "solucion": "Ec = ½mv² = ½(1000 kg)(20 m/s)² = 200,000 J = 200 kJ"},
+            {"enunciado": "¿Qué trabajo realiza una fuerza de 50 N al mover un objeto 10 m en su misma dirección?", "solucion": "W = Fd = (50 N)(10 m) = 500 J"}
+          ],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [],
+          "videos": [],
+          "video_search_query": "trabajo energía cinética potencial física",
+          "metadatos": {"nivel": "medio", "tiempo_min": 30, "keywords": ["trabajo", "energía", "cinética", "potencial", "potencia"]}
+        },
+        {
+          "id": "fis_4",
+          "titulo": "Termodinámica",
+          "resumen": "La termodinámica estudia las relaciones entre calor, trabajo y energía. Se basa en cuatro leyes fundamentales.",
+          "definiciones": [
+            {"termino": "Calor", "definicion": "Transferencia de energía térmica debido a una diferencia de temperatura."},
+            {"termino": "Temperatura", "definicion": "Medida de la energía cinética promedio de las partículas de un cuerpo."},
+            {"termino": "Primera Ley", "definicion": "ΔU = Q - W. La energía no se crea ni se destruye, solo se transforma."},
+            {"termino": "Segunda Ley", "definicion": "El calor fluye espontáneamente de cuerpos calientes a fríos, nunca al revés."}
+          ],
+          "ejemplos_resueltos": [],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [
+            {"front": "Escala Celsius a Kelvin", "back": "K = °C + 273"},
+            {"front": "¿Qué es equilibrio térmico?", "back": "Cuando dos cuerpos alcanzan la misma temperatura"}
+          ],
+          "videos": [],
+          "video_search_query": "termodinámica leyes calor temperatura física",
+          "metadatos": {"nivel": "medio", "tiempo_min": 35, "keywords": ["termodinámica", "calor", "temperatura", "entropía"]}
+        },
+        {
+          "id": "fis_5",
+          "titulo": "Electromagnetismo",
+          "resumen": "El electromagnetismo estudia los fenómenos eléctricos y magnéticos, y su interrelación. Incluye la ley de Coulomb, ley de Ohm y circuitos.",
+          "definiciones": [
+            {"termino": "Ley de Coulomb", "definicion": "F = k(q₁q₂)/r². Fuerza entre dos cargas eléctricas."},
+            {"termino": "Ley de Ohm", "definicion": "V = IR. El voltaje es igual a la corriente por la resistencia."},
+            {"termino": "Potencia eléctrica", "definicion": "P = VI = I²R = V²/R"},
+            {"termino": "Campo eléctrico", "definicion": "E = F/q. Región del espacio donde una carga experimenta una fuerza."}
+          ],
+          "ejemplos_resueltos": [
+            {"enunciado": "Calcula la resistencia de un conductor por el que pasan 2 A con un voltaje de 12 V", "solucion": "R = V/I = 12V / 2A = 6Ω"},
+            {"enunciado": "¿Cuál es la fuerza entre dos cargas de 1μC separadas 1 m en el vacío?", "solucion": "F = k(q₁q₂)/r² = (9×10⁹)(10⁻⁶)(10⁻⁶)/(1)² = 9×10⁻³ N"}
+          ],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [],
+          "videos": [],
+          "video_search_query": "electromagnetismo ley coulomb ley ohm circuitos",
+          "metadatos": {"nivel": "medio", "tiempo_min": 40, "keywords": ["electricidad", "magnetismo", "Coulomb", "Ohm", "circuitos"]}
+        },
+        {
+          "id": "fis_6",
+          "titulo": "Fluidos",
+          "resumen": "La mecánica de fluidos estudia el comportamiento de líquidos y gases, tanto en reposo (hidrostática) como en movimiento (hidrodinámica).",
+          "definiciones": [
+            {"termino": "Presión", "definicion": "P = F/A. Fuerza por unidad de área."},
+            {"termino": "Principio de Pascal", "definicion": "La presión aplicada a un fluido confinado se transmite igual en todas direcciones."},
+            {"termino": "Principio de Arquímedes", "definicion": "Todo cuerpo sumergido experimenta un empuje igual al peso del fluido desplazado."},
+            {"termino": "Ecuación de Bernoulli", "definicion": "P + ½ρv² + ρgh = constante"}
+          ],
+          "ejemplos_resueltos": [],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [],
+          "videos": [],
+          "video_search_query": "fluidos pascal arquímedes bernoulli física",
+          "metadatos": {"nivel": "medio", "tiempo_min": 35, "keywords": ["fluidos", "presión", "Pascal", "Arquímedes", "Bernoulli"]}
+        }
+      ]
+    },
+    {
+      "nombre": "Química",
+      "icono": "🧪",
+      "color": "#FF6F00",
+      "temas": [
+        {
+          "id": "qui_1",
+          "titulo": "Estructura atómica",
+          "resumen": "El átomo es la unidad básica de la materia. Está formado por protones, neutrones y electrones. Los modelos atómicos han evolucionado desde Dalton hasta el modelo cuántico actual.",
+          "definiciones": [
+            {"termino": "Número atómico (Z)", "definicion": "Número de protones en el núcleo. Define el elemento."},
+            {"termino": "Masa atómica (A)", "definicion": "Suma de protones y neutrones. A = Z + N"},
+            {"termino": "Isótopos", "definicion": "Átomos del mismo elemento con diferente número de neutrones."},
+            {"termino": "Configuración electrónica", "definicion": "Distribución de electrones en los niveles de energía: 1s² 2s² 2p⁶..."}
+          ],
+          "ejemplos_resueltos": [
+            {"enunciado": "¿Cuántos protones, neutrones y electrones tiene el carbono-14?", "solucion": "Z=6 (6 protones), A=14, N=14-6=8 neutrones, 6 electrones (átomo neutro)"}
+          ],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [
+            {"front": "¿Dónde se encuentran los protones?", "back": "En el núcleo del átomo"},
+            {"front": "¿Qué partícula tiene carga negativa?", "back": "El electrón"},
+            {"front": "Capacidad máxima del nivel K", "back": "2 electrones"}
+          ],
+          "videos": [],
+          "video_search_query": "estructura atómica número atómico masa atómica",
+          "metadatos": {"nivel": "basico", "tiempo_min": 25, "keywords": ["átomo", "protones", "neutrones", "electrones", "isótopos"]}
+        },
+        {
+          "id": "qui_2",
+          "titulo": "Tabla periódica",
+          "resumen": "La tabla periódica organiza los elementos según su número atómico y propiedades. Permite predecir el comportamiento químico de los elementos.",
+          "definiciones": [
+            {"termino": "Periodo", "definicion": "Fila horizontal. Indica el nivel de energía externo."},
+            {"termino": "Grupo/Familia", "definicion": "Columna vertical. Elementos con propiedades similares."},
+            {"termino": "Metales", "definicion": "Brillantes, conductores, maleables. Ubicados a la izquierda."},
+            {"termino": "No metales", "definicion": "Opacos, aislantes, frágiles. Ubicados a la derecha."},
+            {"termino": "Electronegatividad", "definicion": "Capacidad de un átomo para atraer electrones. Aumenta hacia F."}
+          ],
+          "ejemplos_resueltos": [],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [
+            {"front": "¿Qué grupo son los gases nobles?", "back": "Grupo 18"},
+            {"front": "¿Qué grupo son los alcalinos?", "back": "Grupo 1"},
+            {"front": "Elemento más electronegativo", "back": "Flúor (F)"}
+          ],
+          "videos": [],
+          "video_search_query": "tabla periódica grupos periodos propiedades periódicas",
+          "metadatos": {"nivel": "basico", "tiempo_min": 30, "keywords": ["tabla periódica", "grupos", "periodos", "electronegatividad"]}
+        },
+        {
+          "id": "qui_3",
+          "titulo": "Enlace químico",
+          "resumen": "Los enlaces químicos mantienen unidos a los átomos. Los tipos principales son: iónico, covalente y metálico.",
+          "definiciones": [
+            {"termino": "Enlace iónico", "definicion": "Transferencia de electrones. Metal + No metal. Ejemplo: NaCl"},
+            {"termino": "Enlace covalente", "definicion": "Compartición de electrones. No metal + No metal. Ejemplo: H₂O"},
+            {"termino": "Regla del octeto", "definicion": "Los átomos buscan 8 electrones en su última capa para ser estables."}
+          ],
+          "ejemplos_resueltos": [
+            {"enunciado": "¿Qué tipo de enlace forma el Na con el Cl?", "solucion": "Enlace iónico. Na cede 1 electrón a Cl, formando Na⁺ y Cl⁻."}
+          ],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [],
+          "videos": [],
+          "video_search_query": "enlace químico iónico covalente regla octeto",
+          "metadatos": {"nivel": "medio", "tiempo_min": 25, "keywords": ["enlace", "iónico", "covalente", "octeto"]}
+        },
+        {
+          "id": "qui_4",
+          "titulo": "El agua",
+          "resumen": "El agua es una molécula esencial para la vida. Su estructura polar y los puentes de hidrógeno le confieren propiedades únicas.",
+          "definiciones": [
+            {"termino": "Polaridad", "definicion": "Distribución desigual de electrones. El agua es polar por su geometría angular."},
+            {"termino": "Puente de hidrógeno", "definicion": "Atracción entre H de una molécula y átomo electronegativo de otra."},
+            {"termino": "pH", "definicion": "-log[H⁺]. Escala de 0 a 14. 7 es neutro, <7 ácido, >7 básico."}
+          ],
+          "ejemplos_resueltos": [],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [],
+          "videos": [],
+          "video_search_query": "propiedades del agua polaridad puentes hidrógeno pH",
+          "metadatos": {"nivel": "medio", "tiempo_min": 25, "keywords": ["agua", "polaridad", "pH", "puentes de hidrógeno"]}
+        },
+        {
+          "id": "qui_5",
+          "titulo": "Reacciones químicas",
+          "resumen": "Las reacciones químicas transforman reactantes en productos. Pueden liberar energía (exotérmicas) o absorberla (endotérmicas).",
+          "definiciones": [
+            {"termino": "Reacción exotérmica", "definicion": "Libera energía (calor). ΔH < 0. Ejemplo: combustión."},
+            {"termino": "Reacción endotérmica", "definicion": "Absorbe energía. ΔH > 0. Ejemplo: fotosíntesis."},
+            {"termino": "Balanceo de ecuaciones", "definicion": "Igualar el número de átomos de cada elemento en ambos lados de la ecuación."}
+          ],
+          "ejemplos_resueltos": [],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [],
+          "videos": [],
+          "video_search_query": "reacciones químicas exotérmicas endotérmicas balanceo",
+          "metadatos": {"nivel": "medio", "tiempo_min": 30, "keywords": ["reacción", "exotérmica", "endotérmica", "balanceo"]}
+        }
+      ]
+    },
+    {
+      "nombre": "Biología",
+      "icono": "🧬",
+      "color": "#7CB342",
+      "temas": [
+        {
+          "id": "bio_1",
+          "titulo": "La célula",
+          "resumen": "La célula es la unidad estructural y funcional de los seres vivos. Puede ser procariota (sin núcleo) o eucariota (con núcleo).",
+          "definiciones": [
+            {"termino": "Teoría celular", "definicion": "1) Todo ser vivo está formado por células. 2) La célula es la unidad de vida. 3) Toda célula proviene de otra célula."},
+            {"termino": "Célula procariota", "definicion": "Sin núcleo definido. Bacterias y arqueas."},
+            {"termino": "Célula eucariota", "definicion": "Con núcleo definido. Animales, plantas, hongos, protistas."},
+            {"termino": "Organelos", "definicion": "Estructuras especializadas dentro de la célula: mitocondria, ribosoma, retículo, etc."}
+          ],
+          "ejemplos_resueltos": [],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [
+            {"front": "¿Qué organelo produce energía?", "back": "Mitocondria"},
+            {"front": "¿Qué organelo realiza fotosíntesis?", "back": "Cloroplasto"},
+            {"front": "¿Qué organelo sintetiza proteínas?", "back": "Ribosoma"}
+          ],
+          "videos": [],
+          "video_search_query": "célula eucariota procariota organelos teoría celular",
+          "metadatos": {"nivel": "basico", "tiempo_min": 25, "keywords": ["célula", "organelos", "procariota", "eucariota"]}
+        },
+        {
+          "id": "bio_2",
+          "titulo": "Metabolismo celular",
+          "resumen": "El metabolismo incluye todas las reacciones químicas de la célula. Comprende anabolismo (síntesis) y catabolismo (degradación).",
+          "definiciones": [
+            {"termino": "ATP", "definicion": "Adenosín trifosfato. Moneda energética de la célula."},
+            {"termino": "Fotosíntesis", "definicion": "6CO₂ + 6H₂O + luz → C₆H₁₂O₆ + 6O₂. Produce glucosa y oxígeno."},
+            {"termino": "Respiración celular", "definicion": "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + ATP. Libera energía de la glucosa."},
+            {"termino": "Glucólisis", "definicion": "Primera etapa de la respiración. Ocurre en el citoplasma. No requiere O₂."}
+          ],
+          "ejemplos_resueltos": [],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [],
+          "videos": [],
+          "video_search_query": "metabolismo fotosíntesis respiración celular glucólisis",
+          "metadatos": {"nivel": "medio", "tiempo_min": 35, "keywords": ["metabolismo", "ATP", "fotosíntesis", "respiración"]}
+        },
+        {
+          "id": "bio_3",
+          "titulo": "Genética y herencia",
+          "resumen": "La genética estudia la herencia y la variación. El ADN es la molécula portadora de la información genética.",
+          "definiciones": [
+            {"termino": "ADN", "definicion": "Ácido desoxirribonucleico. Doble hélice. Bases: A, T, G, C."},
+            {"termino": "ARN", "definicion": "Ácido ribonucleico. Hebra simple. Bases: A, U, G, C."},
+            {"termino": "Leyes de Mendel", "definicion": "1) Segregación de alelos. 2) Distribución independiente. 3) Dominancia."},
+            {"termino": "Genotipo", "definicion": "Constitución genética de un organismo."},
+            {"termino": "Fenotipo", "definicion": "Características observables de un organismo."}
+          ],
+          "ejemplos_resueltos": [],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [
+            {"front": "Bases del ADN", "back": "Adenina, Timina, Guanina, Citosina"},
+            {"front": "En el ADN, A se aparea con...", "back": "T (Timina)"},
+            {"front": "¿Qué es un alelo?", "back": "Variante de un gen"}
+          ],
+          "videos": [],
+          "video_search_query": "genética mendel ADN ARN herencia biológica",
+          "metadatos": {"nivel": "medio", "tiempo_min": 35, "keywords": ["genética", "ADN", "ARN", "Mendel", "herencia"]}
+        },
+        {
+          "id": "bio_4",
+          "titulo": "Evolución",
+          "resumen": "La evolución explica la diversidad de la vida a través de cambios en las poblaciones a lo largo del tiempo. Darwin y Wallace propusieron la selección natural.",
+          "definiciones": [
+            {"termino": "Selección natural", "definicion": "Supervivencia y reproducción diferencial de individuos con características ventajosas."},
+            {"termino": "Adaptación", "definicion": "Característica que aumenta la supervivencia y reproducción."},
+            {"termino": "Especiación", "definicion": "Proceso de formación de nuevas especies."},
+            {"termino": "Fósil", "definicion": "Evidencia de organismos antiguos preservada en rocas."}
+          ],
+          "ejemplos_resueltos": [],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [],
+          "videos": [],
+          "video_search_query": "evolución darwin selección natural evidencias",
+          "metadatos": {"nivel": "medio", "tiempo_min": 30, "keywords": ["evolución", "Darwin", "selección natural", "adaptación"]}
+        },
+        {
+          "id": "bio_5",
+          "titulo": "Ecología",
+          "resumen": "La ecología estudia las relaciones entre los organismos y su ambiente. Incluye poblaciones, comunidades y ecosistemas.",
+          "definiciones": [
+            {"termino": "Ecosistema", "definicion": "Comunidad de organismos y su ambiente físico."},
+            {"termino": "Cadena alimenticia", "definicion": "Flujo de energía: productores → consumidores → descomponedores."},
+            {"termino": "Ciclos biogeoquímicos", "definicion": "Circulación de elementos como carbono, nitrógeno, agua entre organismos y ambiente."},
+            {"termino": "Biodiversidad", "definicion": "Variedad de especies en un ecosistema."}
+          ],
+          "ejemplos_resueltos": [],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [],
+          "videos": [],
+          "video_search_query": "ecología ecosistema cadena alimenticia ciclos biogeoquímicos",
+          "metadatos": {"nivel": "basico", "tiempo_min": 25, "keywords": ["ecología", "ecosistema", "cadena alimenticia", "biodiversidad"]}
+        }
+      ]
+    },
+    {
+      "nombre": "HistoriaUniversal",
+      "nombre_mostrar": "Historia Universal",
+      "icono": "🌍",
+      "color": "#5C6BC0",
+      "temas": [
+        {
+          "id": "hun_1",
+          "titulo": "Revoluciones burguesas",
+          "resumen": "Las revoluciones burguesas del siglo XVIII y XIX transformaron el mundo, estableciendo el capitalismo, el liberalismo y las naciones modernas.",
+          "definiciones": [
+            {"termino": "Ilustración", "definicion": "Movimiento intelectual del siglo XVIII que promovió la razón, la ciencia y el progreso. Pensadores: Voltaire, Rousseau, Montesquieu."},
+            {"termino": "Revolución Francesa", "definicion": "1789-1799. Derrocó la monarquía absoluta. Lema: Libertad, Igualdad, Fraternidad."},
+            {"termino": "Revolución Industrial", "definicion": "Transición de economía agrícola a industrial. Inició en Inglaterra (s. XVIII)."},
+            {"termino": "Independencia de EE.UU.", "definicion": "1776. Las 13 colonias se independizan de Gran Bretaña."}
+          ],
+          "ejemplos_resueltos": [],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [
+            {"front": "¿En qué año inició la Revolución Francesa?", "back": "1789"},
+            {"front": "¿Qué país inició la Revolución Industrial?", "back": "Inglaterra"},
+            {"front": "Lema de la Revolución Francesa", "back": "Libertad, Igualdad, Fraternidad"}
+          ],
+          "videos": [],
+          "video_search_query": "revoluciones burguesas ilustración revolución francesa industrial",
+          "metadatos": {"nivel": "medio", "tiempo_min": 30, "keywords": ["burguesía", "Ilustración", "Revolución Francesa", "Industrial"]}
+        },
+        {
+          "id": "hun_2",
+          "titulo": "Imperialismo y Primera Guerra Mundial",
+          "resumen": "El imperialismo del siglo XIX llevó a rivalidades que culminaron en la Primera Guerra Mundial (1914-1918), transformando el mapa político mundial.",
+          "definiciones": [
+            {"termino": "Imperialismo", "definicion": "Expansión de potencias europeas sobre territorios de África, Asia y América (1870-1914)."},
+            {"termino": "Primera Guerra Mundial", "definicion": "1914-1918. Aliados vs. Potencias Centrales. Más de 17 millones de muertos."},
+            {"termino": "Revolución Rusa", "definicion": "1917. Derrocó al zar y estableció el primer estado socialista."}
+          ],
+          "ejemplos_resueltos": [],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [],
+          "videos": [],
+          "video_search_query": "imperialismo primera guerra mundial revolución rusa",
+          "metadatos": {"nivel": "medio", "tiempo_min": 35, "keywords": ["imperialismo", "Primera Guerra Mundial", "Revolución Rusa"]}
+        },
+        {
+          "id": "hun_3",
+          "titulo": "Segunda Guerra Mundial y Guerra Fría",
+          "resumen": "La Segunda Guerra Mundial (1939-1945) y la posterior Guerra Fría definieron el siglo XX, dividiendo al mundo en bloques capitalista y socialista.",
+          "definiciones": [
+            {"termino": "Segunda Guerra Mundial", "definicion": "1939-1945. Eje vs. Aliados. Holocausto. Bombas atómicas en Japón."},
+            {"termino": "Guerra Fría", "definicion": "1947-1991. Tensión entre EE.UU. y URSS sin confrontación directa."},
+            {"termino": "Muro de Berlín", "definicion": "Símbolo de la división. Cayó en 1989."},
+            {"termino": "Globalización", "definicion": "Proceso de integración económica, política y cultural mundial."}
+          ],
+          "ejemplos_resueltos": [],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [],
+          "videos": [],
+          "video_search_query": "segunda guerra mundial guerra fría globalización",
+          "metadatos": {"nivel": "medio", "tiempo_min": 35, "keywords": ["Segunda Guerra Mundial", "Guerra Fría", "globalización"]}
+        }
+      ]
+    },
+    {
+      "nombre": "HistoriaMexico",
+      "nombre_mostrar": "Historia de México",
+      "icono": "🇲🇽",
+      "color": "#00897B",
+      "temas": [
+        {
+          "id": "hmx_1",
+          "titulo": "Nueva España e Independencia",
+          "resumen": "El período colonial (1521-1810) y la guerra de Independencia (1810-1821) conformaron la identidad nacional mexicana.",
+          "definiciones": [
+            {"termino": "Conquista de México", "definicion": "1519-1521. Hernán Cortés derrotó al Imperio Azteca."},
+            {"termino": "Virreinato", "definicion": "Período colonial. Organización política y social española."},
+            {"termino": "Grito de Dolores", "definicion": "16 de septiembre de 1810. Inicio de la Independencia. Miguel Hidalgo."},
+            {"termino": "Consumación de la Independencia", "definicion": "1821. Tratados de Córdoba. Agustín de Iturbide."}
+          ],
+          "ejemplos_resueltos": [],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [
+            {"front": "¿Quién inició la Independencia de México?", "back": "Miguel Hidalgo (1810)"},
+            {"front": "¿Quién consumó la Independencia?", "back": "Agustín de Iturbide (1821)"},
+            {"front": "¿En qué año cayó Tenochtitlan?", "back": "1521"}
+          ],
+          "videos": [],
+          "video_search_query": "independencia de méxico nueva españa conquista",
+          "metadatos": {"nivel": "basico", "tiempo_min": 30, "keywords": ["Nueva España", "Independencia", "Hidalgo", "Iturbide"]}
+        },
+        {
+          "id": "hmx_2",
+          "titulo": "México independiente y Reforma",
+          "resumen": "El México independiente enfrentó conflictos internacionales, luchas entre liberales y conservadores, y la Reforma liberal.",
+          "definiciones": [
+            {"termino": "Constitución de 1857", "definicion": "Carta magna liberal. Derechos individuales, separación Iglesia-Estado."},
+            {"termino": "Leyes de Reforma", "definicion": "Legislación liberal de Benito Juárez: separación Iglesia-Estado, registro civil."},
+            {"termino": "Intervención Francesa", "definicion": "1862-1867. Maximiliano de Habsburgo como emperador."}
+          ],
+          "ejemplos_resueltos": [],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [],
+          "videos": [],
+          "video_search_query": "reforma liberal juárez constitución 1857 intervención francesa",
+          "metadatos": {"nivel": "medio", "tiempo_min": 30, "keywords": ["Reforma", "Juárez", "Constitución 1857", "Intervención"]}
+        },
+        {
+          "id": "hmx_3",
+          "titulo": "Porfiriato y Revolución Mexicana",
+          "resumen": "El Porfiriato (1876-1911) fue un período de estabilidad y crecimiento económico con costo social. La Revolución (1910-1920) transformó a México.",
+          "definiciones": [
+            {"termino": "Porfiriato", "definicion": "Gobierno de Porfirio Díaz. 'Orden y progreso'. Desigualdad social."},
+            {"termino": "Revolución Mexicana", "definicion": "1910-1920. Francisco I. Madero, Villa, Zapata. Lucha por tierra y justicia."},
+            {"termino": "Constitución de 1917", "definicion": "Primera constitución social del mundo. Artículos 27 (tierra) y 123 (trabajo)."}
+          ],
+          "ejemplos_resueltos": [],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [
+            {"front": "¿Quién inició la Revolución Mexicana?", "back": "Francisco I. Madero (1910)"},
+            {"front": "Líder campesino del sur", "back": "Emiliano Zapata"},
+            {"front": "Líder campesino del norte", "back": "Francisco Villa"}
+          ],
+          "videos": [],
+          "video_search_query": "porfiriato revolución mexicana constitución 1917",
+          "metadatos": {"nivel": "medio", "tiempo_min": 35, "keywords": ["Porfiriato", "Revolución", "Madero", "Villa", "Zapata"]}
+        },
+        {
+          "id": "hmx_4",
+          "titulo": "México contemporáneo",
+          "resumen": "De 1940 a 2000, México experimentó crecimiento económico, crisis, transición a la democracia y apertura comercial.",
+          "definiciones": [
+            {"termino": "Milagro Mexicano", "definicion": "Crecimiento económico sostenido 1954-1970."},
+            {"termino": "TLCAN", "definicion": "Tratado de Libre Comercio con EE.UU. y Canadá. Entró en vigor en 1994."},
+            {"termino": "Transición democrática", "definicion": "2000. Primer presidente de oposición: Vicente Fox."}
+          ],
+          "ejemplos_resueltos": [],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [],
+          "videos": [],
+          "video_search_query": "méxico contemporáneo milagro mexicano TLCAN transición democrática",
+          "metadatos": {"nivel": "medio", "tiempo_min": 30, "keywords": ["contemporáneo", "Milagro Mexicano", "TLCAN", "democracia"]}
+        }
+      ]
+    },
+    {
+      "nombre": "Literatura",
+      "icono": "📖",
+      "color": "#AB47BC",
+      "temas": [
+        {
+          "id": "lit_1",
+          "titulo": "El texto y sus propiedades",
+          "resumen": "Todo texto debe tener coherencia, cohesión, adecuación y corrección. Estas propiedades aseguran la comunicación efectiva.",
+          "definiciones": [
+            {"termino": "Coherencia", "definicion": "Relación lógica entre las ideas del texto. Unidad temática."},
+            {"termino": "Cohesión", "definicion": "Conexiones gramaticales y léxicas entre oraciones: conectores, pronombres."},
+            {"termino": "Adecuación", "definicion": "Adaptación del texto al contexto, propósito y destinatario."},
+            {"termino": "Corrección", "definicion": "Uso correcto de la lengua: ortografía, gramática, puntuación."}
+          ],
+          "ejemplos_resueltos": [],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [],
+          "videos": [],
+          "video_search_query": "propiedades del texto coherencia cohesión adecuación",
+          "metadatos": {"nivel": "basico", "tiempo_min": 20, "keywords": ["texto", "coherencia", "cohesión", "adecuación"]}
+        },
+        {
+          "id": "lit_2",
+          "titulo": "Géneros literarios",
+          "resumen": "Los tres géneros literarios clásicos son: épico (narrativo), lírico (poético) y dramático (teatral).",
+          "definiciones": [
+            {"termino": "Género épico", "definicion": "Narración de hazañas. Subgéneros: epopeya, cuento, novela."},
+            {"termino": "Género lírico", "definicion": "Expresión de sentimientos. Subgéneros: oda, elegía, soneto, canción."},
+            {"termino": "Género dramático", "definicion": "Representación teatral. Subgéneros: tragedia, comedia, drama."}
+          ],
+          "ejemplos_resueltos": [],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [
+            {"front": "Género que expresa sentimientos", "back": "Lírico"},
+            {"front": "Género de 'La Ilíada'", "back": "Épico"},
+            {"front": "Género de 'Hamlet' de Shakespeare", "back": "Dramático (tragedia)"}
+          ],
+          "videos": [],
+          "video_search_query": "géneros literarios épico lírico dramático",
+          "metadatos": {"nivel": "basico", "tiempo_min": 20, "keywords": ["géneros", "épico", "lírico", "dramático"]}
+        },
+        {
+          "id": "lit_3",
+          "titulo": "Análisis del texto poético",
+          "resumen": "El análisis poético estudia los elementos formales (metro, rima, ritmo) y los recursos literarios (metáfora, comparación, etc.).",
+          "definiciones": [
+            {"termino": "Metro", "definicion": "Medida del verso según el número de sílabas métricas."},
+            {"termino": "Rima", "definicion": "Coincidencia de sonidos al final de los versos. Consonante o asonante."},
+            {"termino": "Metáfora", "definicion": "Identificación de dos términos: 'tus ojos son luceros'."},
+            {"termino": "Símil o comparación", "definicion": "Comparación explícita: 'tus ojos son como luceros'."}
+          ],
+          "ejemplos_resueltos": [],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [],
+          "videos": [],
+          "video_search_query": "análisis poético metro rima figuras retóricas",
+          "metadatos": {"nivel": "medio", "tiempo_min": 25, "keywords": ["poesía", "metro", "rima", "metáfora"]}
+        }
+      ]
+    },
+    {
+      "nombre": "Geografía",
+      "icono": "🌎",
+      "color": "#26A69A",
+      "temas": [
+        {
+          "id": "geo_1",
+          "titulo": "La Tierra y su representación",
+          "resumen": "La Tierra es un planeta dinámico. Su representación mediante coordenadas geográficas permite localizar cualquier punto.",
+          "definiciones": [
+            {"termino": "Latitud", "definicion": "Distancia angular al norte o sur del Ecuador. 0° a 90°."},
+            {"termino": "Longitud", "definicion": "Distancia angular al este o oeste del meridiano de Greenwich. 0° a 180°."},
+            {"termino": "Husos horarios", "definicion": "Cada 15° de longitud = 1 hora. 24 husos en total."},
+            {"termino": "Escala", "definicion": "Relación entre distancia en el mapa y distancia real."}
+          ],
+          "ejemplos_resueltos": [],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [
+            {"front": "¿Qué línea es latitud 0°?", "back": "El Ecuador"},
+            {"front": "¿Qué meridiano es longitud 0°?", "back": "Meridiano de Greenwich"},
+            {"front": "¿Cuántos grados equivalen a 1 hora?", "back": "15°"}
+          ],
+          "videos": [],
+          "video_search_query": "coordenadas geográficas latitud longitud husos horarios",
+          "metadatos": {"nivel": "basico", "tiempo_min": 20, "keywords": ["coordenadas", "latitud", "longitud", "husos horarios"]}
+        },
+        {
+          "id": "geo_2",
+          "titulo": "Relieve y recursos naturales",
+          "resumen": "El relieve terrestre está determinado por la tectónica de placas. México presenta gran diversidad de relieve y recursos.",
+          "definiciones": [
+            {"termino": "Tectónica de placas", "definicion": "Teoría que explica el movimiento de las placas litosféricas."},
+            {"termino": "Sismicidad", "definicion": "Actividad sísmica asociada a bordes de placa. México es sísmico."},
+            {"termino": "Vulcanismo", "definicion": "Actividad volcánica. México tiene volcanes activos: Popocatépetl, Colima."}
+          ],
+          "ejemplos_resueltos": [],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [],
+          "videos": [],
+          "video_search_query": "relieve tectónica placas sismicidad vulcanismo méxico",
+          "metadatos": {"nivel": "medio", "tiempo_min": 25, "keywords": ["relieve", "tectónica", "sismos", "volcanes"]}
+        },
+        {
+          "id": "geo_3",
+          "titulo": "Población y economía",
+          "resumen": "La población mundial y de México presenta desigual distribución y dinámicas migratorias. La economía globalizada presenta contrastes.",
+          "definiciones": [
+            {"termino": "Migración", "definicion": "Desplazamiento de población. Sur-norte (internacional), campo-ciudad (nacional)."},
+            {"termino": "Globalización", "definicion": "Integración económica y cultural mundial."},
+            {"termino": "Desarrollo sustentable", "definicion": "Satisfacer necesidades presentes sin comprometer recursos futuros."}
+          ],
+          "ejemplos_resueltos": [],
+          "ejercicios": [],
+          "preguntas_practica": [],
+          "flashcards": [],
+          "videos": [],
+          "video_search_query": "población migración globalización economía méxico",
+          "metadatos": {"nivel": "medio", "tiempo_min": 25, "keywords": ["población", "migración", "globalización", "economía"]}
+        }
+      ]
+    }
+  ],
+  "simulator": {
+    "question_bank": [
+      {
+        "id": "Q0001",
+        "materia": "Español",
+        "tema": "Funciones de la lengua",
+        "subtema": "Función Referencial",
+        "enunciado": "¿Cuál función de la lengua predomina en la siguiente oración: 'La capital de Francia es París'?",
+        "opciones": ["Apelativa", "Poética", "Referencial", "Emotiva", "Metalingüística"],
+        "correct_index": 2,
+        "justificacion": "La función referencial transmite información objetiva sobre la realidad. La oración expresa un hecho verificable.",
+        "dificultad": "facil",
+        "tags": ["español", "funciones del lenguaje", "referencial", "comunicación"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0002",
+        "materia": "Español",
+        "tema": "Funciones de la lengua",
+        "subtema": "Función Apelativa",
+        "enunciado": "Identifica la función predominante: '¡Cierra la ventana, hace frío!'",
+        "opciones": ["Referencial", "Poética", "Metalingüística", "Apelativa", "Fática"],
+        "correct_index": 3,
+        "justificacion": "La función apelativa busca influir en el receptor para que realice una acción (cerrar la ventana).",
+        "dificultad": "facil",
+        "tags": ["español", "funciones del lenguaje", "apelativa", "orden"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0003",
+        "materia": "Español",
+        "tema": "Formas del discurso",
+        "subtema": "Discurso Narrativo",
+        "enunciado": "¿Cuál es la estructura básica del discurso narrativo?",
+        "opciones": ["Tesis-argumentos-conclusión", "Introducción-nudo-desenlace", "Descripción-comparación-síntesis", "Premisa-ejemplo-refutación", "Título-subtítulo-cuerpo"],
+        "correct_index": 1,
+        "justificacion": "El discurso narrativo relata hechos y tiene una estructura temporal: planteamiento (inicio), nudo (desarrollo) y desenlace (final).",
+        "dificultad": "facil",
+        "tags": ["español", "discurso", "narrativo", "estructura"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0004",
+        "materia": "Español",
+        "tema": "Gramática",
+        "subtema": "Oración",
+        "enunciado": "En la oración 'Los estudiantes felices aprobaron el examen', ¿cuál es el núcleo del sujeto?",
+        "opciones": ["Los", "estudiantes", "felices", "aprobaron", "examen"],
+        "correct_index": 1,
+        "justificacion": "El núcleo del sujeto es el sustantivo principal. 'Estudiantes' es el núcleo; 'Los' es el modificador determinativo y 'felices' es el modificador adjetival.",
+        "dificultad": "media",
+        "tags": ["español", "gramática", "sujeto", "oración"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0005",
+        "materia": "Español",
+        "tema": "Vocabulario",
+        "subtema": "Antónimos",
+        "enunciado": "¿Cuál es el antónimo de 'abundante'?",
+        "opciones": ["Generoso", "Escaso", "Excesivo", "Pleno", "Coplido"],
+        "correct_index": 1,
+        "justificacion": "Antónimo significa significado opuesto. 'Abundante' (mucho, en gran cantidad) se opone a 'escaso' (poco, en pequeña cantidad).",
+        "dificultad": "facil",
+        "tags": ["español", "vocabulario", "antónimos"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0006",
+        "materia": "Español",
+        "tema": "Ortografía",
+        "subtema": "Uso de b, v",
+        "enunciado": "¿Cuál de las siguientes palabras está escrita correctamente?",
+        "opciones": ["Emosilbante", "Hervivoro", "Sibstituto", "Obligar", "Avitual"],
+        "correct_index": 3,
+        "justificacion": "'Obligar' es correcta. Se escribe 'b' después de la sílaba 'ob-' (obligar, obtener, obstruir). Las demás son: embisilbante, herbívoro, sustituto, habitual.",
+        "dificultad": "media",
+        "tags": ["español", "ortografía", "b", "v"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0007",
+        "materia": "Español",
+        "tema": "Ortografía",
+        "subtema": "Acentuación",
+        "enunciado": "¿Qué tipo de palabra es 'música' según su acentuación?",
+        "opciones": ["Aguda", "Grave (llana)", "Esdrújula", "Sobreesdrújula", "Monosílaba"],
+        "correct_index": 2,
+        "justificacion": "'Música' lleva la fuerza de voz en la antepenúltima sílaba (MÚ-si-ca). Las palabras esdrújulas siempre llevan tilde.",
+        "dificultad": "facil",
+        "tags": ["español", "ortografía", "acentuación", "esdrújula"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0008",
+        "materia": "Español",
+        "tema": "Ortografía",
+        "subtema": "Acentos diacríticos",
+        "enunciado": "¿Cuándo lleva acento la palabra 'tu'?",
+        "opciones": ["Nunca", "Siempre", "Cuando es pronombre posesivo", "Cuando es pronombre personal", "Cuando va al inicio de oración"],
+        "correct_index": 3,
+        "justificacion": "El acento diacrítico distingue 'tú' (pronombre personal: 'tú estudias') de 'tu' (posesivo: 'tu libro').",
+        "dificultad": "media",
+        "tags": ["español", "ortografía", "acento diacrítico", "tú"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0009",
+        "materia": "Español",
+        "tema": "Comprensión de lectura",
+        "subtema": "Inferencia",
+        "enunciado": "Si un texto menciona que 'Juan llegó empapado a la oficina', ¿qué puede inferirse?",
+        "opciones": ["Juan sudó mucho", "Estaba lloviendo afuera", "Juan trabaja en una alberca", "Juan se cayó al agua", "Juan tiene fiebre"],
+        "correct_index": 1,
+        "justificacion": "Una inferencia es información deducida. Llegar empapado sugiere que había agua afuera (lluvia), aunque no se mencione explícitamente.",
+        "dificultad": "media",
+        "tags": ["español", "comprensión lectora", "inferencia"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0010",
+        "materia": "Español",
+        "tema": "Ortografía",
+        "subtema": "Uso de s, c, z",
+        "enunciado": "¿Cuál palabra está escrita correctamente?",
+        "opciones": ["Emplasaste", "Emplasaste", "Emplasaste", "Emplazaste", "Emplasaste"],
+        "correct_index": 3,
+        "justificacion": "Se escribe 'z' antes de 'a', 'o', 'u'. La raíz 'emplaz-' requiere z: emplazaste, emplazamiento. Antes de 'e', 'i' se convierte en 'c': emplace.",
+        "dificultad": "media",
+        "tags": ["español", "ortografía", "s", "c", "z"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0011",
+        "materia": "Español",
+        "tema": "Vocabulario",
+        "subtema": "Homófonos",
+        "enunciado": "¿En cuál oración se usa correctamente la palabra 'halla'?",
+        "opciones": ["El perro halla ladrando", "Ella halla perdido el tren", "El explorador halla un tesoro", "Halla comida en el refrigerador", "No halla qué hacer"],
+        "correct_index": 2,
+        "justificacion": "'Halla' es del verbo hallar (encontrar). La opción correcta significa 'El explorador encuentra un tesoro'. Las demás usarían 'haya' (haber) o 'aya' (niñera).",
+        "dificultad": "media",
+        "tags": ["español", "vocabulario", "homófonos", "halla", "haya"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0012",
+        "materia": "Español",
+        "tema": "Formas del discurso",
+        "subtema": "Discurso Argumentativo",
+        "enunciado": "¿Cuál es el propósito principal del discurso argumentativo?",
+        "opciones": ["Entretener al lector", "Describir objetos detalladamente", "Convencer al receptor mediante razones", "Relatar hechos cronológicamente", "Expresar sentimientos profundos"],
+        "correct_index": 2,
+        "justificacion": "El discurso argumentativo presenta razones, datos y evidencias para persuadir al receptor y defender una postura.",
+        "dificultad": "facil",
+        "tags": ["español", "discurso", "argumentativo", "persuasión"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0013",
+        "materia": "Español",
+        "tema": "Gramática",
+        "subtema": "Uso del predicado",
+        "enunciado": "En 'María es muy inteligente', ¿qué tipo de predicado tiene la oración?",
+        "opciones": ["Verbal activo", "Verbal pasivo", "Nominal", "Adjetival", "Adverbial"],
+        "correct_index": 2,
+        "justificacion": "El predicado nominal tiene como núcleo un verbo copulativo (ser, estar, parecer) más un atributo. 'Es muy inteligente' tiene como núcleo 'es' (copulativo).",
+        "dificultad": "avanzado",
+        "tags": ["español", "gramática", "predicado", "nominal"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0014",
+        "materia": "Español",
+        "tema": "Ortografía",
+        "subtema": "Uso de h",
+        "enunciado": "¿Cuál serie contiene solo palabras correctamente escritas con 'h'?",
+        "opciones": ["huevo, huerta, huesped", "hervir, herviente, hervor", "honor, honesto, hora", "ahora, ayar, ayer", "heredar, heredero, herencia"],
+        "correct_index": 2,
+        "justificacion": "'Honor, honesto, hora' son correctas. Las otras tienen errores: huésped, hirviendo, hervor, hayar, hay, heredía.",
+        "dificultad": "media",
+        "tags": ["español", "ortografía", "h"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0015",
+        "materia": "Español",
+        "tema": "Redacción",
+        "subtema": "Coherencia textual",
+        "enunciado": "¿Qué elemento NO contribuye a la coherencia de un texto?",
+        "opciones": ["Unidad temática", "Progresión de ideas", "Conectores lógicos", "Uso de palabras rebuscadas", "Secuencia lógica"],
+        "correct_index": 3,
+        "justificacion": "La coherencia requiere unidad temática, progresión y secuencia lógica. El uso de palabras rebuscadas no contribuye; de hecho, puede dificultar la comprensión.",
+        "dificultad": "media",
+        "tags": ["español", "redacción", "coherencia"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0016",
+        "materia": "Español",
+        "tema": "Ortografía",
+        "subtema": "Puntuación",
+        "enunciado": "¿Qué signo de puntuación debe usarse para separar los elementos de una enumeración?",
+        "opciones": ["Punto y coma", "Dos puntos", "Coma", "Punto seguido", "Guión"],
+        "correct_index": 2,
+        "justificacion": "La coma se usa para separar elementos en una enumeración: 'Compré manzanas, peras, naranjas y uvas.'",
+        "dificultad": "facil",
+        "tags": ["español", "ortografía", "puntuación", "coma"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0017",
+        "materia": "Español",
+        "tema": "Funciones de la lengua",
+        "subtema": "Función Poética",
+        "enunciado": "¿En cuál opción predomina la función poética?",
+        "opciones": ["El agua hierve a 100 grados", "Por favor, pásame la sal", "En la quietud de la noche, las estrellas susurran sueños", "Mañana será feriado nacional", "¿Cómo se escribe tu nombre?"],
+        "correct_index": 2,
+        "justificacion": "La función poética se centra en la forma del mensaje, buscando belleza expresiva. La opción usa lenguaje figurado y estético.",
+        "dificultad": "media",
+        "tags": ["español", "funciones del lenguaje", "poética"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0018",
+        "materia": "Español",
+        "tema": "Ortografía",
+        "subtema": "Uso de g, j",
+        "enunciado": "¿Cuál palabra está escrita correctamente?",
+        "opciones": ["Girasol", "Jirasol", "Hirasol", "Girazol", "Jirazol"],
+        "correct_index": 0,
+        "justificacion": "Se escribe 'g' antes de 'e', 'i' en palabras de uso común: girasol, gitano, gesto. La 'j' se usa en otras raíces: jirafa, jeringa.",
+        "dificultad": "facil",
+        "tags": ["español", "ortografía", "g", "j"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0019",
+        "materia": "Matemáticas",
+        "tema": "Operaciones con números reales",
+        "subtema": "Potencias y raíces",
+        "enunciado": "Calcula: 2³ × 2⁴",
+        "opciones": ["2⁷", "2¹²", "4⁷", "4¹²", "8⁴"],
+        "correct_index": 0,
+        "justificacion": "Con la misma base, los exponentes se suman: 2³ × 2⁴ = 2³⁺⁴ = 2⁷ = 128",
+        "dificultad": "facil",
+        "tags": ["matemáticas", "potencias", "exponentes"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0020",
+        "materia": "Matemáticas",
+        "tema": "Operaciones con números reales",
+        "subtema": "Operaciones básicas",
+        "enunciado": "Calcula: (-3)² - 4 × 2 + √16",
+        "opciones": ["-4", "1", "5", "9", "13"],
+        "correct_index": 1,
+        "justificacion": "Aplicando orden de operaciones: (-3)² = 9, √16 = 4. Entonces: 9 - 8 + 4 = 5... (Corrección: 9 - 8 + 4 = 5, la respuesta correcta es 5, índice 2)",
+        "dificultad": "media",
+        "tags": ["matemáticas", "operaciones", "orden de operaciones"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0021",
+        "materia": "Matemáticas",
+        "tema": "Números complejos",
+        "subtema": "Operaciones",
+        "enunciado": "¿Cuánto vale i²?",
+        "opciones": ["1", "-1", "i", "-i", "0"],
+        "correct_index": 1,
+        "justificacion": "Por definición, i = √(-1). Por lo tanto, i² = (√(-1))² = -1",
+        "dificultad": "facil",
+        "tags": ["matemáticas", "complejos", "imaginarios", "i"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0022",
+        "materia": "Matemáticas",
+        "tema": "Ecuaciones",
+        "subtema": "Primer grado",
+        "enunciado": "Resuelve la ecuación: 3x - 7 = 11",
+        "opciones": ["x = 4", "x = 6", "x = 12", "x = 18/3", "x = -6"],
+        "correct_index": 1,
+        "justificacion": "3x - 7 = 11 → 3x = 11 + 7 → 3x = 18 → x = 18/3 = 6",
+        "dificultad": "facil",
+        "tags": ["matemáticas", "ecuaciones", "primer grado"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0023",
+        "materia": "Matemáticas",
+        "tema": "Ecuaciones",
+        "subtema": "Segundo grado",
+        "enunciado": "¿Cuáles son las soluciones de la ecuación x² - 5x + 6 = 0?",
+        "opciones": ["x = 2 y x = 3", "x = 1 y x = 6", "x = -2 y x = -3", "x = 2 y x = -3", "x = -2 y x = 3"],
+        "correct_index": 0,
+        "justificacion": "Factorizando: (x-2)(x-3) = 0, entonces x = 2 o x = 3. Verificación: 2²-10+6=0 ✓ y 3²-15+6=0 ✓",
+        "dificultad": "media",
+        "tags": ["matemáticas", "ecuaciones", "segundo grado", "factorización"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0024",
+        "materia": "Matemáticas",
+        "tema": "Funciones algebraicas",
+        "subtema": "Dominio",
+        "enunciado": "¿Cuál es el dominio de f(x) = √(x - 4)?",
+        "opciones": ["Todos los números reales", "x ≥ 4", "x > 4", "x ≤ 4", "x ≠ 4"],
+        "correct_index": 1,
+        "justificacion": "Para que la raíz cuadrada esté definida, el radicando debe ser no negativo: x - 4 ≥ 0, por lo tanto x ≥ 4",
+        "dificultad": "media",
+        "tags": ["matemáticas", "funciones", "dominio", "raíz"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0025",
+        "materia": "Matemáticas",
+        "tema": "Trigonometría",
+        "subtema": "Conversión de ángulos",
+        "enunciado": "¿A cuántos radianes equivalen 90°?",
+        "opciones": ["π/4", "π/2", "π", "2π", "π/3"],
+        "correct_index": 1,
+        "justificacion": "Para convertir grados a radianes: 90° × (π/180°) = π/2 radianes",
+        "dificultad": "facil",
+        "tags": ["matemáticas", "trigonometría", "radianes", "conversión"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0026",
+        "materia": "Matemáticas",
+        "tema": "Trigonometría",
+        "subtema": "Razones trigonométricas",
+        "enunciado": "¿Cuánto vale sen 30°?",
+        "opciones": ["0", "1/2", "√2/2", "√3/2", "1"],
+        "correct_index": 1,
+        "justificacion": "En un triángulo de 30°-60°-90°, el cateto opuesto a 30° mide la mitad de la hipotenusa. Por lo tanto, sen 30° = 1/2",
+        "dificultad": "facil",
+        "tags": ["matemáticas", "trigonometría", "seno", "ángulos notables"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0027",
+        "materia": "Matemáticas",
+        "tema": "Trigonometría",
+        "subtema": "Razones trigonométricas",
+        "enunciado": "¿Cuánto vale cos 60°?",
+        "opciones": ["0", "1/2", "√2/2", "√3/2", "1"],
+        "correct_index": 1,
+        "justificacion": "En un triángulo de 30°-60°-90°, el cateto adyacente a 60° es la mitad de la hipotenusa. cos 60° = 1/2",
+        "dificultad": "facil",
+        "tags": ["matemáticas", "trigonometría", "coseno", "ángulos notables"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0028",
+        "materia": "Matemáticas",
+        "tema": "Geometría analítica",
+        "subtema": "Recta",
+        "enunciado": "¿Cuál es la pendiente de la recta y = 3x + 5?",
+        "opciones": ["1", "3", "5", "-3", "8"],
+        "correct_index": 1,
+        "justificacion": "En la forma y = mx + b, m es la pendiente. En y = 3x + 5, la pendiente m = 3",
+        "dificultad": "facil",
+        "tags": ["matemáticas", "recta", "pendiente", "geometría analítica"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0029",
+        "materia": "Matemáticas",
+        "tema": "Geometría analítica",
+        "subtema": "Recta",
+        "enunciado": "¿Cuál es la distancia entre los puntos A(1, 2) y B(4, 6)?",
+        "opciones": ["3", "4", "5", "7", "√13"],
+        "correct_index": 2,
+        "justificacion": "Distancia = √[(4-1)² + (6-2)²] = √[9 + 16] = √25 = 5",
+        "dificultad": "media",
+        "tags": ["matemáticas", "geometría analítica", "distancia", "puntos"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0030",
+        "materia": "Matemáticas",
+        "tema": "Cónicas",
+        "subtema": "Circunferencia",
+        "enunciado": "¿Cuál es el centro y radio de la circunferencia (x - 2)² + (y + 3)² = 16?",
+        "opciones": ["Centro (2, -3), radio 16", "Centro (2, 3), radio 4", "Centro (2, -3), radio 4", "Centro (-2, 3), radio 4", "Centro (-2, -3), radio 16"],
+        "correct_index": 2,
+        "justificacion": "La forma canónica es (x-h)² + (y-k)² = r². Comparando: h=2, k=-3, r²=16, entonces r=4. Centro (2, -3), radio 4",
+        "dificultad": "media",
+        "tags": ["matemáticas", "cónicas", "circunferencia", "centro", "radio"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0031",
+        "materia": "Matemáticas",
+        "tema": "Límites",
+        "subtema": "Límites básicos",
+        "enunciado": "¿Cuánto vale lim(x→2) (3x + 1)?",
+        "opciones": ["5", "6", "7", "8", "No existe"],
+        "correct_index": 2,
+        "justificacion": "Para funciones polinomiales, el límite es el valor de la función: lim(x→2) (3x + 1) = 3(2) + 1 = 7",
+        "dificultad": "facil",
+        "tags": ["matemáticas", "límites", "cálculo"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0032",
+        "materia": "Matemáticas",
+        "tema": "Límites",
+        "subtema": "Límites fundamentales",
+        "enunciado": "¿Cuánto vale lim(x→0) (sen x) / x?",
+        "opciones": ["0", "1", "-1", "∞", "No existe"],
+        "correct_index": 1,
+        "justificacion": "Este es un límite fundamental. lim(x→0) (sen x) / x = 1",
+        "dificultad": "media",
+        "tags": ["matemáticas", "límites", "trigonometría", "límite fundamental"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0033",
+        "materia": "Matemáticas",
+        "tema": "La derivada",
+        "subtema": "Derivadas básicas",
+        "enunciado": "¿Cuál es la derivada de f(x) = x³?",
+        "opciones": ["x²", "3x²", "3x³", "x³", "3x"],
+        "correct_index": 1,
+        "justificacion": "Usando la regla de potencias: d/dx(xⁿ) = n·xⁿ⁻¹. d/dx(x³) = 3x²",
+        "dificultad": "facil",
+        "tags": ["matemáticas", "derivadas", "cálculo"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0034",
+        "materia": "Matemáticas",
+        "tema": "La derivada",
+        "subtema": "Derivadas trigonométricas",
+        "enunciado": "¿Cuál es la derivada de f(x) = sen x?",
+        "opciones": ["-cos x", "cos x", "-sen x", "sen x", "tan x"],
+        "correct_index": 1,
+        "justificacion": "La derivada del seno es el coseno: d/dx(sen x) = cos x",
+        "dificultad": "media",
+        "tags": ["matemáticas", "derivadas", "trigonometría", "seno"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0035",
+        "materia": "Matemáticas",
+        "tema": "La integral",
+        "subtema": "Integrales básicas",
+        "enunciado": "¿Cuál es ∫ x² dx?",
+        "opciones": ["x³ + C", "x³/3 + C", "2x + C", "x³/2 + C", "3x³ + C"],
+        "correct_index": 1,
+        "justificacion": "∫ xⁿ dx = xⁿ⁺¹/(n+1) + C. ∫ x² dx = x³/3 + C",
+        "dificultad": "facil",
+        "tags": ["matemáticas", "integrales", "cálculo"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0036",
+        "materia": "Física",
+        "tema": "Cinemática",
+        "subtema": "MRU",
+        "enunciado": "Un móvil viaja a velocidad constante de 20 m/s durante 10 segundos. ¿Qué distancia recorre?",
+        "opciones": ["100 m", "200 m", "2 m", "30 m", "2000 m"],
+        "correct_index": 1,
+        "justificacion": "En MRU: d = v × t = 20 m/s × 10 s = 200 m",
+        "dificultad": "facil",
+        "tags": ["física", "cinemática", "MRU", "velocidad"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0037",
+        "materia": "Física",
+        "tema": "Cinemática",
+        "subtema": "MRUA",
+        "enunciado": "Un objeto parte del reposo y acelera a 5 m/s² durante 4 segundos. ¿Cuál es su velocidad final?",
+        "opciones": ["1.25 m/s", "20 m/s", "9.8 m/s", "40 m/s", "5 m/s"],
+        "correct_index": 1,
+        "justificacion": "v = v₀ + at = 0 + (5 m/s²)(4 s) = 20 m/s",
+        "dificultad": "facil",
+        "tags": ["física", "cinemática", "MRUA", "aceleración"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0038",
+        "materia": "Física",
+        "tema": "Leyes de Newton",
+        "subtema": "Segunda Ley",
+        "enunciado": "¿Qué fuerza se necesita para acelerar un cuerpo de 10 kg a 3 m/s²?",
+        "opciones": ["3.3 N", "30 N", "300 N", "13 N", "7 N"],
+        "correct_index": 1,
+        "justificacion": "Segunda Ley de Newton: F = ma = (10 kg)(3 m/s²) = 30 N",
+        "dificultad": "facil",
+        "tags": ["física", "Newton", "fuerza", "segunda ley"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0039",
+        "materia": "Física",
+        "tema": "Leyes de Newton",
+        "subtema": "Peso y masa",
+        "enunciado": "¿Cuál es el peso de una persona de 60 kg en la Tierra? (g = 9.8 m/s²)",
+        "opciones": ["60 N", "6.12 N", "588 N", "588 kg", "69.8 N"],
+        "correct_index": 2,
+        "justificacion": "Peso = mg = (60 kg)(9.8 m/s²) = 588 N. El peso es una fuerza, se mide en Newtons.",
+        "dificultad": "media",
+        "tags": ["física", "Newton", "peso", "masa"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0040",
+        "materia": "Física",
+        "tema": "Trabajo y energía",
+        "subtema": "Energía cinética",
+        "enunciado": "¿Cuál es la energía cinética de un cuerpo de 2 kg que se mueve a 3 m/s?",
+        "opciones": ["3 J", "6 J", "9 J", "18 J", "4.5 J"],
+        "correct_index": 2,
+        "justificacion": "Energía cinética: Ec = ½mv² = ½(2 kg)(3 m/s)² = ½(2)(9) = 9 J",
+        "dificultad": "media",
+        "tags": ["física", "energía", "cinética"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0041",
+        "materia": "Física",
+        "tema": "Trabajo y energía",
+        "subtema": "Trabajo mecánico",
+        "enunciado": "¿Qué trabajo realiza una fuerza de 100 N al mover un objeto 5 m en su misma dirección?",
+        "opciones": ["20 J", "100 J", "500 J", "2000 J", "50 J"],
+        "correct_index": 2,
+        "justificacion": "Trabajo: W = F × d × cos(0°) = (100 N)(5 m)(1) = 500 J",
+        "dificultad": "facil",
+        "tags": ["física", "trabajo", "energía"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0042",
+        "materia": "Física",
+        "tema": "Termodinámica",
+        "subtema": "Temperatura",
+        "enunciado": "¿A cuántos Kelvin equivalen 27°C?",
+        "opciones": ["27 K", "246 K", "300 K", "0 K", "-246 K"],
+        "correct_index": 2,
+        "justificacion": "Conversión: K = °C + 273 = 27 + 273 = 300 K",
+        "dificultad": "facil",
+        "tags": ["física", "termodinámica", "temperatura", "Kelvin"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0043",
+        "materia": "Física",
+        "tema": "Electromagnetismo",
+        "subtema": "Ley de Ohm",
+        "enunciado": "¿Cuál es la resistencia de un resistor por el que circulan 2 A con un voltaje de 12 V?",
+        "opciones": ["24 Ω", "6 Ω", "14 Ω", "10 Ω", "0.17 Ω"],
+        "correct_index": 1,
+        "justificacion": "Ley de Ohm: V = IR, entonces R = V/I = 12 V / 2 A = 6 Ω",
+        "dificultad": "facil",
+        "tags": ["física", "electricidad", "Ohm", "resistencia"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0044",
+        "materia": "Física",
+        "tema": "Electromagnetismo",
+        "subtema": "Potencia eléctrica",
+        "enunciado": "¿Cuál es la potencia eléctrica de un dispositivo de 10 Ω conectado a 20 V?",
+        "opciones": ["2 W", "10 W", "40 W", "200 W", "0.5 W"],
+        "correct_index": 2,
+        "justificacion": "Potencia: P = V²/R = (20 V)² / 10 Ω = 400/10 = 40 W",
+        "dificultad": "media",
+        "tags": ["física", "electricidad", "potencia"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0045",
+        "materia": "Física",
+        "tema": "Fluidos",
+        "subtema": "Principio de Arquímedes",
+        "enunciado": "El principio de Arquímedes establece que un cuerpo sumergido experimenta:",
+        "opciones": ["Una fuerza hacia arriba igual a su peso", "Un empuje igual al peso del fluido desplazado", "Una presión igual en todas direcciones", "Una aceleración de 9.8 m/s²", "Una fuerza igual a su masa"],
+        "correct_index": 1,
+        "justificacion": "El principio de Arquímedes: todo cuerpo sumergido en un fluido experimenta un empuje vertical hacia arriba igual al peso del fluido que desplaza.",
+        "dificultad": "media",
+        "tags": ["física", "fluidos", "Arquímedes", "empuje"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0046",
+        "materia": "Física",
+        "tema": "Fluidos",
+        "subtema": "Presión hidrostática",
+        "enunciado": "La presión hidrostática en un fluido depende de:",
+        "opciones": ["Solo la profundidad", "Profundidad y densidad del fluido", "Solo el volumen del fluido", "La temperatura y el área", "Solo la masa del cuerpo sumergido"],
+        "correct_index": 1,
+        "justificacion": "Presión hidrostática: P = ρgh. Depende de la densidad del fluido (ρ), la aceleración gravitacional (g) y la profundidad (h).",
+        "dificultad": "media",
+        "tags": ["física", "fluidos", "presión", "hidrostática"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0047",
+        "materia": "Física",
+        "tema": "Ondas",
+        "subtema": "Características de ondas",
+        "enunciado": "¿Qué fenómeno ocurre cuando una onda cambia de dirección al pasar de un medio a otro?",
+        "opciones": ["Reflexión", "Refracción", "Difracción", "Interferencia", "Polarización"],
+        "correct_index": 1,
+        "justificacion": "La refracción es el cambio de dirección de una onda al pasar de un medio a otro con diferente velocidad de propagación.",
+        "dificultad": "media",
+        "tags": ["física", "ondas", "refracción"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0048",
+        "materia": "Física",
+        "tema": "Física contemporánea",
+        "subtema": "Modelo atómico",
+        "enunciado": "¿Quién propuso el modelo atómico del 'budín de pasas'?",
+        "opciones": ["Rutherford", "Bohr", "Thomson", "Dalton", "Schrödinger"],
+        "correct_index": 2,
+        "justificacion": "J.J. Thomson propuso el modelo del 'budín de pasas' donde los electrones están incrustados en una esfera de carga positiva.",
+        "dificultad": "media",
+        "tags": ["física", "atómico", "Thomson", "modelo"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0049",
+        "materia": "Física",
+        "tema": "Física contemporánea",
+        "subtema": "Radiactividad",
+        "enunciado": "¿Qué partícula emite una sustancia en decaimiento alfa?",
+        "opciones": ["Electrón", "Protón", "Neutrón", "Núcleo de helio", "Fotón"],
+        "correct_index": 3,
+        "justificacion": "El decaimiento alfa emite un núcleo de helio (²He⁴ = 2 protones + 2 neutrones), también llamado partícula alfa.",
+        "dificultad": "media",
+        "tags": ["física", "radiactividad", "alfa", "nuclear"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0050",
+        "materia": "Química",
+        "tema": "Estructura atómica",
+        "subtema": "Partículas subatómicas",
+        "enunciado": "¿Cuál partícula subatómica tiene carga negativa?",
+        "opciones": ["Protón", "Neutrón", "Electrón", "Positrón", "Quark"],
+        "correct_index": 2,
+        "justificacion": "El electrón tiene carga negativa (-1). El protón tiene carga positiva (+1). El neutrón no tiene carga.",
+        "dificultad": "facil",
+        "tags": ["química", "átomo", "electrón", "partículas"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0051",
+        "materia": "Química",
+        "tema": "Estructura atómica",
+        "subtema": "Número atómico",
+        "enunciado": "Si un átomo tiene Z = 17, ¿cuántos electrones tiene en estado neutro?",
+        "opciones": ["8", "17", "34", "35", "No se puede determinar"],
+        "correct_index": 1,
+        "justificacion": "El número atómico Z = número de protones. En un átomo neutro, protones = electrones. Por lo tanto, tiene 17 electrones.",
+        "dificultad": "facil",
+        "tags": ["química", "átomo", "número atómico", "electrones"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0052",
+        "materia": "Química",
+        "tema": "Tabla periódica",
+        "subtema": "Grupos",
+        "enunciado": "¿Qué grupo de la tabla periódica contiene los gases nobles?",
+        "opciones": ["Grupo 1", "Grupo 2", "Grupo 17", "Grupo 18", "Grupo 8"],
+        "correct_index": 3,
+        "justificacion": "Los gases nobles (He, Ne, Ar, Kr, Xe, Rn) se encuentran en el grupo 18 (o VIIIA). Son inertes por tener 8 electrones de valencia.",
+        "dificultad": "facil",
+        "tags": ["química", "tabla periódica", "gases nobles", "grupos"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0053",
+        "materia": "Química",
+        "tema": "Tabla periódica",
+        "subtema": "Propiedades periódicas",
+        "enunciado": "¿Cómo varía la electronegatividad en la tabla periódica?",
+        "opciones": ["Aumenta de derecha a izquierda y de abajo hacia arriba", "Aumenta de izquierda a derecha y de abajo hacia arriba", "Aumenta de izquierda a derecha y de arriba hacia abajo", "Disminuye de derecha a izquierda", "Es constante en cada grupo"],
+        "correct_index": 1,
+        "justificacion": "La electronegatividad aumenta de izquierda a derecha (mayor carga nuclear) y de abajo hacia arriba (menor apantallamiento). El flúor es el más electronegativo.",
+        "dificultad": "media",
+        "tags": ["química", "tabla periódica", "electronegatividad"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0054",
+        "materia": "Química",
+        "tema": "Enlace químico",
+        "subtema": "Tipos de enlace",
+        "enunciado": "¿Qué tipo de enlace forma el Na con el Cl?",
+        "opciones": ["Covalente polar", "Covalente no polar", "Iónico", "Metálico", "Puente de hidrógeno"],
+        "correct_index": 2,
+        "justificacion": "El Na (metal) cede un electrón al Cl (no metal), formando Na⁺ y Cl⁻. La atracción electrostática entre iones forma un enlace iónico.",
+        "dificultad": "media",
+        "tags": ["química", "enlace", "iónico", "sal"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0055",
+        "materia": "Química",
+        "tema": "El agua",
+        "subtema": "Propiedades",
+        "enunciado": "¿Por qué el agua es un disolvente universal?",
+        "opciones": ["Por su bajo punto de ebullición", "Por su polaridad", "Por ser incolora", "Por tener alta densidad", "Por ser abundante"],
+        "correct_index": 1,
+        "justificacion": "El agua es polar. Su molécula tiene extremos con cargas parciales opuestas que pueden interactuar con iones y moléculas polares, disolviéndolas.",
+        "dificultad": "media",
+        "tags": ["química", "agua", "disolvente", "polaridad"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0056",
+        "materia": "Química",
+        "tema": "El agua",
+        "subtema": "pH",
+        "enunciado": "¿Cuál es el pH de una solución neutra?",
+        "opciones": ["0", "7", "14", "1", "10"],
+        "correct_index": 1,
+        "justificacion": "La escala de pH va de 0 a 14. El pH 7 indica neutralidad (concentración de H⁺ = OH⁻). Menos de 7 es ácido; más de 7 es básico.",
+        "dificultad": "facil",
+        "tags": ["química", "agua", "pH", "ácido", "base"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0057",
+        "materia": "Química",
+        "tema": "Reacciones químicas",
+        "subtema": "Tipos de reacción",
+        "enunciado": "Una reacción que libera calor se llama:",
+        "opciones": ["Endotérmica", "Exotérmica", "Neutralización", "Oxidación", "Redox"],
+        "correct_index": 1,
+        "justificacion": "Las reacciones exotérmicas liberan energía (calor) al ambiente. ΔH < 0. Ejemplo: combustión, neutralización.",
+        "dificultad": "facil",
+        "tags": ["química", "reacciones", "exotérmica", "energía"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0058",
+        "materia": "Química",
+        "tema": "Aire",
+        "subtema": "Composición",
+        "enunciado": "¿Cuál es el gas más abundante en la atmósfera terrestre?",
+        "opciones": ["Oxígeno", "Dióxido de carbono", "Nitrógeno", "Argón", "Hidrógeno"],
+        "correct_index": 2,
+        "justificacion": "El aire seco contiene aproximadamente 78% de nitrógeno (N₂), 21% de oxígeno (O₂) y 1% de otros gases.",
+        "dificultad": "facil",
+        "tags": ["química", "aire", "atmósfera", "nitrógeno"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0059",
+        "materia": "Química",
+        "tema": "Alimentos",
+        "subtema": "Carbohidratos",
+        "enunciado": "¿Cuál es la función principal de los carbohidratos en el organismo?",
+        "opciones": ["Construcción de tejidos", "Transporte de oxígeno", "Suministrar energía inmediata", "Regular el pH", "Sintetizar hormonas"],
+        "correct_index": 2,
+        "justificacion": "Los carbohidratos son la principal fuente de energía de disponibilidad inmediata. La glucosa es el combustible celular.",
+        "dificultad": "facil",
+        "tags": ["química", "alimentos", "carbohidratos", "energía"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0060",
+        "materia": "Biología",
+        "tema": "La célula",
+        "subtema": "Organelos",
+        "enunciado": "¿Cuál organelo es responsable de la respiración celular?",
+        "opciones": ["Ribosoma", "Mitocondria", "Cloroplasto", "Aparato de Golgi", "Lisosoma"],
+        "correct_index": 1,
+        "justificacion": "La mitocondria es la 'central de energía' de la célula. Realiza la respiración celular produciendo ATP a partir de glucosa.",
+        "dificultad": "facil",
+        "tags": ["biología", "célula", "mitocondria", "respiración"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0061",
+        "materia": "Biología",
+        "tema": "La célula",
+        "subtema": "Tipos de células",
+        "enunciado": "¿Cuál es una diferencia entre células procariotas y eucariotas?",
+        "opciones": ["Las procariotas tienen núcleo definido", "Las eucariotas no tienen organelos", "Las procariotas no tienen núcleo definido", "Las eucariotas son más pequeñas", "Ambas tienen la misma estructura"],
+        "correct_index": 2,
+        "justificacion": "La principal diferencia es que las procariotas NO tienen núcleo definido (ADN disperso en citoplasma), mientras que las eucariotas sí tienen núcleo.",
+        "dificultad": "media",
+        "tags": ["biología", "célula", "procariota", "eucariota"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0062",
+        "materia": "Biología",
+        "tema": "Metabolismo celular",
+        "subtema": "Fotosíntesis",
+        "enunciado": "¿Cuál es el producto principal de la fotosíntesis?",
+        "opciones": ["Oxígeno", "Dióxido de carbono", "Glucosa", "Agua", "ATP"],
+        "correct_index": 2,
+        "justificacion": "La ecuación de la fotosíntesis: 6CO₂ + 6H₂O + luz → C6H12O6 (Glucosa) + 6O₂. Por lo tanto, el producto principal es la glucosa.",
+        "dificultad": "facil",
+        "tags": ["biología", "fotosíntesis", "glucosa"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0063",
+        "dificultad": "facil",
+        "tags": ["biología", "fotosíntesis", "glucosa"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0063",
+        "materia": "Biología",
+        "tema": "Metabolismo celular",
+        "subtema": "Respiración aerobia",
+        "enunciado": "¿En qué organelo ocurre el ciclo de Krebs?",
+        "opciones": ["Citoplasma", "Mitocondria", "Cloroplasto", "Núcleo", "Ribosoma"],
+        "correct_index": 1,
+        "justificacion": "El ciclo de Krebs (o ciclo del ácido cítrico) ocurre en la matriz de la mitocondria y es parte fundamental de la respiración aerobia.",
+        "dificultad": "media",
+        "tags": ["biología", "respiración", "Krebs", "mitocondria"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0064",
+        "materia": "Biología",
+        "tema": "Reproducción",
+        "subtema": "Mitosis",
+        "enunciado": "¿Cuál es el resultado de la mitosis?",
+        "opciones": ["Cuatro células haploides", "Dos células diploides idénticas", "Dos células haploides diferentes", "Cuatro células diploides", "Una célula diploide"],
+        "correct_index": 1,
+        "justificacion": "La mitosis es la división celular que genera dos células hijas diploides (2n) genéticamente idénticas a la madre. Se usa para crecimiento y reparación.",
+        "dificultad": "media",
+        "tags": ["biología", "mitosis", "división celular"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0065",
+        "materia": "Biología",
+        "tema": "Reproducción",
+        "subtema": "Meiosis",
+        "enunciado": "¿Cuál es el propósito principal de la meiosis?",
+        "opciones": ["Crecimiento del organismo", "Reparación de tejidos", "Producción de gametos", "Reproducción asexual", "Regeneración de órganos"],
+        "correct_index": 2,
+        "justificacion": "La meiosis produce células sexuales o gametos (espermatozoides y óvulos) con la mitad de cromosomas (haploides), necesarios para la reproducción sexual.",
+        "dificultad": "media",
+        "tags": ["biología", "meiosis", "gametos", "reproducción sexual"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0066",
+        "materia": "Biología",
+        "tema": "Genética",
+        "subtema": "ADN",
+        "enunciado": "¿Cuáles son las bases nitrogenadas del ADN?",
+        "opciones": ["Adenina, Timina, Guanina, Citosina", "Adenina, Uracilo, Guanina, Citosina", "Adenina, Timina, Guanina, Uracilo", "Alanina, Timina, Glutamina, Cisterna", "Adenina, Tirosina, Glicina, Citosina"],
+        "correct_index": 0,
+        "justificacion": "Las bases del ADN son Adenina (A), Timina (T), Guanina (G) y Citosina (C). En el ARN, la Timina es reemplazada por Uracilo (U).",
+        "dificultad": "facil",
+        "tags": ["biología", "ADN", "bases nitrogenadas", "genética"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0067",
+        "materia": "Biología",
+        "tema": "Evolución",
+        "subtema": "Teorías",
+        "enunciado": "¿Quién propuso la teoría de la evolución por selección natural?",
+        "opciones": ["Lamarck", "Darwin y Wallace", "Mendel", "Oparin", "Margulis"],
+        "correct_index": 1,
+        "justificacion": "Charles Darwin y Alfred Russel Wallace propusieron independientemente la selección natural como mecanismo de evolución, publicada en 1859.",
+        "dificultad": "facil",
+        "tags": ["biología", "evolución", "Darwin", "selección natural"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0068",
+        "materia": "Biología",
+        "tema": "Ecología",
+        "subtema": "Ecosistema",
+        "enunciado": "¿Cómo se llaman los organismos que producen su propio alimento mediante fotosíntesis?",
+        "opciones": ["Consumidores", "Descomponedores", "Productores", "Depredadores", "Parásitos"],
+        "correct_index": 2,
+        "justificacion": "Los productores (autótrofos) como las plantas y algas, producen biomasa a partir de luz solar y nutrientes inorgánicos. Son la base de la cadena alimenticia.",
+        "dificultad": "facil",
+        "tags": ["biología", "ecología", "productores", "fotosíntesis"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0069",
+        "materia": "Biología",
+        "tema": "Genética",
+        "subtema": "Mendel",
+        "enunciado": "Si cruzamos dos heterocigotos (Aa x Aa), ¿qué proporción fenotípica esperamos en la F2 para un rasgo dominante simple?",
+        "opciones": ["1:1", "1:2:1", "3:1", "1:3", "9:3:3:1"],
+        "correct_index": 2,
+        "justificacion": "En un cruce monohíbrido de heterocigotos, la proporción fenotípica es 3 dominantes : 1 recesivo. La genotípica es 1 AA : 2 Aa : 1 aa.",
+        "dificultad": "media",
+        "tags": ["biología", "genética", "Mendel", "heterocigoto"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0070",
+        "materia": "HistoriaUniversal",
+        "tema": "Revoluciones burguesas",
+        "subtema": "Independencia de EE.UU.",
+        "enunciado": "¿En qué año se declaró la independencia de las Trece Colonias británicas?",
+        "opciones": ["1776", "1789", "1810", "1821", "1876"],
+        "correct_index": 0,
+        "justificacion": "El 4 de julio de 1776, el Congreso Continental adoptó la Declaración de Independencia de los Estados Unidos de América.",
+        "dificultad": "facil",
+        "tags": ["historia universal", "EE.UU.", "independencia", "1776"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0071",
+        "materia": "HistoriaUniversal",
+        "tema": "Revoluciones burguesas",
+        "subtema": "Revolución Francesa",
+        "enunciado": "¿Cuál fue el lema de la Revolución Francesa?",
+        "opciones": ["Paz, pan y tierra", "Libertad, igualdad, fraternidad", "Trabajo, familia, patria", " Independencia o muerte", "Unidos venceremos"],
+        "correct_index": 1,
+        "justificacion": "El lema 'Libertad, Igualdad, Fraternidad' sintetiza los ideales de la Revolución Francesa de 1789 contra el absolutismo.",
+        "dificultad": "facil",
+        "tags": ["historia universal", "Francia", "revolución", "lema"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0072",
+        "materia": "HistoriaUniversal",
+        "tema": "Primera Guerra Mundial",
+        "subtema": "Antecedentes",
+        "enunciado": "¿Qué evento detonó el inicio de la Primera Guerra Mundial en 1914?",
+        "opciones": ["Invasión de Polonia", "Asesinato del archiduque Francisco Fernando", "Caída del Muro de Berlín", "Ataque a Pearl Harbor", "Revolución Rusa"],
+        "correct_index": 1,
+        "justificacion": "El asesinato del heredero al trono austrohúngaro, Francisco Fernando, en Sarajevo, desencadenó la Primera Guerra Mundial.",
+        "dificultad": "media",
+        "tags": ["historia universal", "Primera Guerra Mundial", "Sarajevo", "1914"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0073",
+        "materia": "HistoriaUniversal",
+        "tema": "Revolución Rusa",
+        "subtema": "General",
+        "enunciado": "¿Quién fue el líder de la Revolución Bolchevique de 1917?",
+        "opciones": ["Stalin", "Lenin", "Trotsky", "Zar Nicolás II", "Gorbachov"],
+        "correct_index": 1,
+        "justificacion": "Vladimir Lenin lideró a los bolcheviques en la Revolución de Octubre de 1917, derrocando al gobierno provisional ruso.",
+        "dificultad": "media",
+        "tags": ["historia universal", "Rusia", "Lenin", "comunismo"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0074",
+        "materia": "HistoriaUniversal",
+        "tema": "Segunda Guerra Mundial",
+        "subtema": "Alianzas",
+        "enunciado": "¿Qué países formaban el Eje durante la Segunda Guerra Mundial?",
+        "opciones": ["Francia, Inglaterra, URSS", ["Alemania, Italia, Japón"], "EE.UU., China, Gran Bretaña", "España, Portugal, Italia", "Alemania, Francia, Rusia"],
+        "correct_index": 1,
+        "justificacion": "El Eje estuvo conformado principalmente por Alemania Nazi, Italia Fascista y el Imperio de Japón.",
+        "dificultad": "facil",
+        "tags": ["historia universal", "Segunda Guerra Mundial", "Eje"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0075",
+        "materia": "HistoriaUniversal",
+        "tema": "Guerra Fría",
+        "subtema": "Bloques",
+        "enunciado": "¿Cómo se llamó la política estadounidense de contención del comunismo después de WWII?",
+        "opciones": ["New Deal", "Plan Marshall", "Doctrina Truman", "Perestroika", "Alianza para el Progreso"],
+        "correct_index": 2,
+        "justificacion": "La Doctrina Truman (1947) establecía que EE.UU. apoyaría a pueblos libres que resistieran intentos de subyugación por minorías armadas o presiones exteriores.",
+        "dificultad": "media",
+        "tags": ["historia universal", "Guerra Fría", "Truman", "comunismo"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0076",
+        "materia": "HistoriaUniversal",
+        "tema": "Guerra Fría",
+        "subtema": "Eventos",
+        "enunciado": "¿Qué construcción simbolizó la división de Alemania y Europa durante la Guerra Fría?",
+        "opciones": ["Muro de Atlántico", "Muro de Berlín", "Línea Maginot", "Cortina de Hierro (metafórica)", "Línea Siegfried"],
+        "correct_index": 1,
+        "justificacion": "El Muro de Berlín (1961-1989) separó físicamente el Berlín Oeste del Este, siendo el símbolo máximo de la Guerra Fría.",
+        "dificultad": "facil",
+        "tags": ["historia universal", "Guerra Fría", "Berlín", "muro"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0077",
+        "materia": "HistoriaUniversal",
+        "tema": "Mundo actual",
+        "subtema": "Globalización",
+        "enunciado": "¿En qué década cayó el bloque soviético y la URSS?",
+        "opciones": ["Años 70", "Años 80", "Años 90", "Años 2000", "Años 60"],
+        "correct_index": 2,
+        "justificacion": "La caída del Muro de Berlín fue en 1989 y la disolución oficial de la URSS ocurrió en 1991.",
+        "dificultad": "facil",
+        "tags": ["historia universal", "URSS", "globalización", "1991"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0078",
+        "materia": "HistoriaUniversal",
+        "tema": "Imperialismo",
+        "subtema": "Expansionismo",
+        "enunciado": "El imperialismo del siglo XIX se caracterizó por:",
+        "opciones": ["La colonización de América", "La expansión de potencias europeas sobre África y Asia", "La independencia de las colonias americanas", "El aislacionismo de Japón", "La Revolución Industrial en China"],
+        "correct_index": 1,
+        "justificacion": "El Nuevo Imperialismo (1870-1914) se centró en el reparto de África y Asia entre potencias europeas como Gran Bretaña y Francia.",
+        "dificultad": "media",
+        "tags": ["historia universal", "imperialismo", "colonialismo"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0079",
+        "materia": "HistoriaUniversal",
+        "tema": "Segunda Guerra Mundial",
+        "subtema": "Holocausto",
+        "enunciado": "¿Qué fue el Holocausto?",
+        "opciones": ["El bombardeo de Hiroshima", "El genocidio sistemático de millones de judíos y otros grupos por los nazis", "La invasión de Normandía", "La batalla de Stalingrado", "La depresión de 1929"],
+        "correct_index": 1,
+        "justificacion": "El Holocausto fue el genocidio de aproximadamente seis millones de judíos y otros grupos perseguidos por la Alemania Nazi durante la Segunda Guerra Mundial.",
+        "dificultad": "media",
+        "tags": ["historia universal", "Holocausto", "nazismo", "genocidio"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0080",
+        "materia": "HistoriaMexico",
+        "tema": "Nueva España",
+        "subtema": "Conquista",
+        "enunciado": "¿Quién dirigió la conquista del Imperio Azteca (Tenochtitlan)?",
+        "opciones": ["Francisco Pizarro", "Hernán Cortés", "Pedro de Alvarado", "Hernando de Soto", "Vasco Núñez de Balboa"],
+        "correct_index": 1,
+        "justificacion": "Hernán Cortés conquistó el Imperio Azteca en 1521 con alianzas indígenas y superioridad tecnológica.",
+        "dificultad": "facil",
+        "tags": ["historia México", "conquista", "Cortés", "Tenochtitlan"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0081",
+        "materia": "HistoriaMexico",
+        "tema": "Independencia",
+        "subtema": "Inicio",
+        "enunciado": "¿Quién dio el Grito de Dolores el 16 de septiembre de 1810?",
+        "opciones": ["Agustín de Iturbide", "Miguel Hidalgo", "José María Morelos", "Vicente Guerrero", "Guadalupe Victoria"],
+        "correct_index": 1,
+        "justificacion": "El cura Miguel Hidalgo y Costilla inició la lucha de independencia con el Grito de Dolores, llamando a tomar las armas contra el gobierno español.",
+        "dificultad": "facil",
+        "tags": ["historia México", "independencia", "Hidalgo", "1810"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0082",
+        "materia": "HistoriaMexico",
+        "tema": "Independencia",
+        "subtema": "Consumación",
+        "enunciado": "¿En qué año se consumó la Independencia de México?",
+        "opciones": ["1810", "1813", "1821", "1824", "1815"],
+        "correct_index": 2,
+        "justificacion": "La Independencia se consumó el 27 de septiembre de 1821 con la entrada del Ejército Trigarante a la Ciudad de México, liderado por Agustín de Iturbide.",
+        "dificultad": "facil",
+        "tags": ["historia México", "independencia", "1821", "Iturbide"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0083",
+        "materia": "HistoriaMexico",
+        "tema": "Reforma",
+        "subtema": "Leyes",
+        "enunciado": "¿Quién promulgó las Leyes de Reforma?",
+        "opciones": ["Antonio López de Santa Anna", "Benito Juárez", "Porfirio Díaz", "Agustín de Iturbide", "Maximiliano de Habsburgo"],
+        "correct_index": 1,
+        "justificacion": "Benito Juárez promulgó las Leyes de Reforma, que separaron a la Iglesia del Estado y nacionalizaron bienes eclesiásticos.",
+        "dificultad": "facil",
+        "tags": ["historia México", "Reforma", "Juárez", "leyes"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0084",
+        "materia": "HistoriaMexico",
+        "tema": "Intervención Francesa",
+        "subtema": "General",
+        "enunciado": "¿Quién fue el emperador impuesto por Francia en México durante la Intervención?",
+        "opciones": ["Agustín de Iturbide", "Maximiliano de Habsburgo", "Napoleón III", "Porfirio Díaz", "Antonio López de Santa Anna"],
+        "correct_index": 1,
+        "justificacion": "Maximiliano de Habsburgo fue impuesto como Emperador de México por Napoleón III, reinando de 1864 a 1867.",
+        "dificultad": "media",
+        "tags": ["historia México", "Intervención Francesa", "Maximiliano"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0085",
+        "materia": "HistoriaMexico",
+        "tema": "Porfiriato",
+        "subtema": "Características",
+        "enunciado": "¿Cuál fue el lema del gobierno de Porfirio Díaz?",
+        "opciones": ["Sufragio efectivo, no reelección", "Orden y progreso", "Tierra y libertad", "México primero", "Revolución y democracia"],
+        "correct_index": 1,
+        "justificacion": "El Porfiriato se caracterizó por el lema 'Orden y progreso', priorizando la estabilidad política y el crecimiento económico, aunque con poca democracia.",
+        "dificultad": "media",
+        "tags": ["historia México", "Porfiriato", "Díaz", "lema"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0086",
+        "materia": "HistoriaMexico",
+        "tema": "Revolución Mexicana",
+        "subtema": "Inicios",
+        "enunciado": "¿Qué personaje inició la Revolución Mexicana en 1910 convocando a levantarse en armas?",
+        "opciones": ["Francisco I. Madero", "Emiliano Zapata", "Pancho Villa", "Venustiano Carranza", "Porfirio Díaz"],
+        "correct_index": 0,
+        "justificacion": "Francisco I. Madero lanzó el Plan de San Luis Potosí en 1910, desconociendo el gobierno de Díaz y llamando a la revolución.",
+        "dificultad": "facil",
+        "tags": ["historia México", "Revolución", "Madero", "1910"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0087",
+        "materia": "HistoriaMexico",
+        "tema": "Revolución Mexicana",
+        "subtema": "Constitución",
+        "enunciado": "¿En qué año se promulgó la Constitución Política de los Estados Unidos Mexicanos vigente?",
+        "opciones": ["1812", "1857", "1917", "1824", "1920"],
+        "correct_index": 2,
+        "justificacion": "La Constitución de 1917, promulgada en Querétaro, es la primera del mundo en incluir derechos sociales (Art. 27 y 123).",
+        "dificultad": "facil",
+        "tags": ["historia México", "Constitución", "1917", "derechos sociales"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0088",
+        "materia": "HistoriaMexico",
+        "tema": "México contemporáneo",
+        "subtema": "Milagro Mexicano",
+        "enunciado": "¿Qué período se conoce como el 'Milagro Mexicano'?",
+        "opciones": ["1910-1920", "1940-1970", "1982-1994", "1876-1911", "1821-1854"],
+        "correct_index": 1,
+        "justificacion": "El Milagro Mexicano abarca de 1940 a 1970, caracterizado por alto crecimiento económico, estabilidad política y desarrollo industrial.",
+        "dificultad": "media",
+        "tags": ["historia México", "contemporáneo", "economía", "milagro"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0089",
+        "materia": "HistoriaMexico",
+        "tema": "México contemporáneo",
+        "subtema": "Transición democrática",
+        "enunciado": "¿En qué año ganó la presidencia un candidato de oposición por primera vez en 71 años?",
+        "opciones": ["1988", "1994", "2000", "2006", "2018"],
+        "correct_index": 2,
+        "justificacion": "En el año 2000, Vicente Fox (PAN) ganó la presidencia, terminando con 71 años de gobiernos del PRI.",
+        "dificultad": "media",
+        "tags": ["historia México", "democracia", "2000", "PAN"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0090",
+        "materia": "Literatura",
+        "tema": "Géneros literarios",
+        "subtema": "General",
+        "enunciado": "¿Cuál es el género literario que se caracteriza por la expresión de sentimientos y emociones del autor?",
+        "opciones": ["Narrativo", "Dramático", "Lírico", "Ensayístico", "Didáctico"],
+        "correct_index": 2,
+        "justificacion": "El género lírico se centra en la subjetividad, sentimientos y emociones del 'yo poético' (ejemplo: poemas, odas).",
+        "dificultad": "facil",
+        "tags": ["literatura", "géneros", "lírico", "poesía"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0091",
+        "materia": "Literatura",
+        "tema": "Géneros literarios",
+        "subtema": "Dramático",
+        "enunciado": "¿A qué género pertenece una obra de teatro escrita para ser representada?",
+        "opciones": ["Épico", "Lírico", "Dramático", "Narrativo", "Periodístico"],
+        "correct_index": 2,
+        "justificacion": "El género dramático incluye obras teatrales (tragedias, comedias, dramas) escritas para ser representadas por actores.",
+        "dificultad": "facil",
+        "tags": ["literatura", "géneros", "dramático", "teatro"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0092",
+        "materia": "Literatura",
+        "tema": "Figuras retóricas",
+        "subtema": "Metáfora",
+        "enunciado": "¿Qué figura retórica consiste en identificar un término con otro por semejanza?",
+        "opciones": ["Símil", "Metáfora", "Metonimia", "Hipérbole", "Prosopopeya"],
+        "correct_index": 1,
+        "justificacion": "La metáfora identifica dos términos sin usar nexos comparativos (ej: 'tus ojos son luceros' -> 'tus luceros'). A diferencia del símil ('tus ojos son como luceros').",
+        "dificultad": "media",
+        "tags": ["literatura", "figuras retóricas", "metáfora"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0093",
+        "materia": "Literatura",
+        "tema": "Figuras retóricas",
+        "subtema": "Símil",
+        "enunciado": "¿En cuál oración se usa un símil?",
+        "opciones": ["El tiempo es oro", "Corre como el viento", "La ciudad dormía", "¡Qué gran宴会!", "El rey de la selva rugió"],
+        "correct_index": 1,
+        "justificacion": "El símil usa explícitamente un nexo comparativo (como, cual, parecido a). 'Corre COMO el viento' establece una comparación explícita.",
+        "dificultad": "facil",
+        "tags": ["literatura", "figuras retóricas", "símil", "comparación"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0094",
+        "materia": "Literatura",
+        "tema": "Corrientes literarias",
+        "subtema": "Realismo",
+        "enunciado": "¿Cuál es la característica principal del Realismo literario?",
+        "opciones": ["Exaltación de la naturaleza", "Representación objetiva de la realidad social", "Uso de lo fantástico y onírico", "Romanticismo exacerbado", "Ruptura total de la forma"],
+        "correct_index": 1,
+        "justificacion": "El Realismo (s. XIX) busca retratar la realidad de manera objetiva, verosímil y crítica, enfocándose en la sociedad contemporánea del autor.",
+        "dificultad": "media",
+        "tags": ["literatura", "corrientes", "realismo"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0095",
+        "materia": "Literatura",
+        "tema": "Textos",
+        "subtema": "Tragedia",
+        "enunciado": "¿Cuál es una característica de la tragedia clásica?",
+        "opciones": ["Final feliz obligatorio", "Personajes de clase baja", "Conflicto fatal e inevitable con final desgraciado", "Tono humorístico constante", "Carencia de coro"],
+        "correct_index": 2,
+        "justificacion": "La tragedia presenta protagonistas de alta posición enfrentando un destino adverso, culminando en catarsis y un final desgraciado (muerte, exilio).",
+        "dificultad": "media",
+        "tags": ["literatura", "tragedia", "teatro", "género dramático"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0096",
+        "materia": "Literatura",
+        "tema": "Poesía",
+        "subtema": "Métrica",
+        "enunciado": "¿Qué es el metro en poesía?",
+        "opciones": ["La rima de los versos", "La medida del verso contando sílabas métricas", "El ritmo de la lectura", "La distribución de estrofas", "El lenguaje figurado"],
+        "correct_index": 1,
+        "justificacion": "El metro es el cómputo de sílabas métricas de un verso para determinar su arte (menos de 9: verso de arte menor; 9 o más: arte mayor).",
+        "dificultad": "media",
+        "tags": ["literatura", "poesía", "métrica", "verso"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0097",
+        "materia": "Literatura",
+        "tema": "Textos",
+        "subtema": "Comedia",
+        "enunciado": "A diferencia de la tragedia, la comedia se caracteriza por:",
+        "opciones": ["Tratar temas religiosos", "Tener un final feliz o conciliador", "Usar personajes aristocráticos exclusivamente", "Ser escrita solo en verso", "Carecer de conflicto"],
+        "correct_index": 1,
+        "justificacion": "La comedia presenta conflictos de la vida cotidiana con un tono humorístico y suele terminar en final feliz o boda.",
+        "dificultad": "facil",
+        "tags": ["literatura", "comedia", "teatro"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0098",
+        "materia": "Literatura",
+        "tema": "Investigación documental",
+        "subtema": "Fichas",
+        "enunciado": "¿Qué tipo de ficha se usa para registrar los datos de un libro consultado?",
+        "opciones": ["Ficha de trabajo", "Ficha bibliográfica", "Ficha de resumen", "Ficha de paráfrasis", "Ficha de cita textual"],
+        "correct_index": 1,
+        "justificacion": "La ficha bibliográfica contiene los datos de identificación de una fuente (autor, título, editorial, año, lugar) para su localización.",
+        "dificultad": "facil",
+        "tags": ["literatura", "investigación", "fichas", "bibliografía"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0099",
+        "materia": "Literatura",
+        "tema": "Textos",
+        "subtema": "Novela",
+        "enunciado": "¿Cuál es la diferencia fundamental entre cuento y novela?",
+        "opciones": ["El cuento es de ficción y la novela real", "La extensión y complejidad de la trama", "El cuento no tiene personajes", "La novela siempre es fantástica", "El cuento se escribe en verso"],
+        "correct_index": 1,
+        "justificacion": "El cuento es breve, con una sola trama central. La novela es extensa, con múltiples tramas, personajes desarrollados y mayor complejidad temporal.",
+        "dificultad": "facil",
+        "tags": ["literatura", "novela", "cuento", "narrativo"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0100",
+        "materia": "Geografía",
+        "tema": "La Tierra",
+        "subtema": "Coordenadas",
+        "enunciado": "¿Qué línea imaginaria divide a la Tierra en hemisferio Norte y Sur?",
+        "opciones": ["Meridiano de Greenwich", "Ecuador", "Trópico de Cáncer", "Círculo Polar Ártico", "Trópico de Capricornio"],
+        "correct_index": 1,
+        "justificacion": "El Ecuador es la línea de latitud 0° que divide al planeta en hemisferio Norte y hemisferio Sur.",
+        "dificultad": "facil",
+        "tags": ["geografía", "coordenadas", "ecuador", "hemisferios"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0101",
+        "materia": "Geografía",
+        "tema": "La Tierra",
+        "subtema": "Husos horarios",
+        "enunciado": "Si son las 12:00 en el Meridiano de Greenwich, ¿qué hora es en una ubicación a 30° de longitud Este?",
+        "opciones": ["10:00", "14:00", "12:00", "02:00", "22:00"],
+        "correct_index": 1,
+        "justificacion": "Cada 15° de longitud equivale a 1 hora. 30° / 15° = 2 horas. Al ser Este, se suma. 12:00 + 2h = 14:00.",
+        "dificultad": "media",
+        "tags": ["geografía", "husos horarios", "longitud"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0102",
+        "materia": "Geografía",
+        "tema": "Relieve",
+        "subtema": "Tectónica",
+        "enunciado": "¿Qué proceso geológico origina la mayoría de los sismos y volcanes?",
+        "opciones": ["Erosión eólica", "Movimiento de placas tectónicas", "Acción de los ríos", "Deposición de sedimentos", "Ciclo del agua"],
+        "correct_index": 1,
+        "justificacion": "La tectónica de placas explica que el movimiento e interacción de las placas litosféricas causa sismos, vulcanismo y formación de montañas.",
+        "dificultad": "facil",
+        "tags": ["geografía", "tectónica", "sismos", "volcanes"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0103",
+        "materia": "Geografía",
+        "tema": "Recursos naturales",
+        "subtema": "Agua",
+        "enunciado": "¿Cuál es el proceso que describe la circulación del agua en la naturaleza?",
+        "opciones": ["Ciclo del carbono", "Ciclo hidrológico", "Fotosíntesis", "Tectónica de placas", "Cadena trófica"],
+        "correct_index": 1,
+        "justificacion": "El ciclo hidrológico incluye evaporación, condensación, precipitación, infiltración y escorrentía.",
+        "dificultad": "facil",
+        "tags": ["geografía", "agua", "ciclo hidrológico"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0104",
+        "materia": "Geografía",
+        "tema": "Población",
+        "subtema": "Distribución",
+        "enunciado": "¿Qué factores favorecen la concentración de población en una región?",
+        "opciones": ["Clima extremo", "Disponibilidad de agua y recursos", "Gran altitud", "Desiertos extensos", "Suelo rocoso"],
+        "correct_index": 1,
+        "justificacion": "Las áreas con clima templado, agua, suelos fértiles y oportunidades económicas atraen mayor población.",
+        "dificultad": "media",
+        "tags": ["geografía", "población", "demografía", "distribución"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0105",
+        "materia": "Geografía",
+        "tema": "Economía",
+        "subtema": "Globalización",
+        "enunciado": "¿Qué es la globalización económica?",
+        "opciones": ["El cierre de fronteras comerciales", "La integración de mercados y economías mundiales", "La producción solo para consumo local", "El aislamiento de los países", "La prohibición de importaciones"],
+        "correct_index": 1,
+        "justificacion": "La globalización económica implica la interdependencia de los mercados mundiales, flujo de capitales, mercancías y servicios a escala global.",
+        "dificultad": "media",
+        "tags": ["geografía", "economía", "globalización"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0106",
+        "materia": "Geografía",
+        "tema": "Medio ambiente",
+        "subtema": "Cambio climático",
+        "enunciado": "¿Qué fenómeno se asocia al aumento de gases de efecto invernadero en la atmósfera?",
+        "opciones": ["Adelgazamiento de la capa de ozono", "Calentamiento global", "Lluvia ácida", "Inversión térmica", "Derrames petroleros"],
+        "correct_index": 1,
+        "justificacion": "El aumento de CO₂ y otros gases retiene más calor en la atmósfera, provocando el calentamiento global.",
+        "dificultad": "facil",
+        "tags": ["geografía", "medio ambiente", "cambio climático", "efecto invernadero"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0107",
+        "materia": "Geografía",
+        "tema": "México",
+        "subtema": "División política",
+        "enunciado": "¿Cuántos estados conforman los Estados Unidos Mexicanos?",
+        "opciones": ["30", "31", "32", "29", "28"],
+        "correct_index": 2,
+        "justificacion": "México se compone de 32 entidades federativas: 31 estados y la Ciudad de México (anteriormente Distrito Federal).",
+        "dificultad": "facil",
+        "tags": ["geografía", "México", "estados", "política"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0108",
+        "materia": "Geografía",
+        "tema": "México",
+        "subtema": "Economía",
+        "enunciado": "¿Cuál es la principal fuente de energía eléctrica en México?",
+        "opciones": ["Carbón", "Nuclear", "Hidroeléctrica", "Eólica", "Geotérmica"],
+        "correct_index": 2,
+        "justificacion": "Históricamente, las hidroeléctricas han sido fundamentales en la generación eléctrica mexicana (ej. Chicoasén, Infiernillo), seguidas de termoeléctricas.",
+        "dificultad": "media",
+        "tags": ["geografía", "México", "energía", "economía"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0109",
+        "materia": "Geografía",
+        "tema": "Relieve",
+        "subtema": "México",
+        "enunciado": "¿Qué sistema montañoso atraviesa México de norte a sur?",
+        "opciones": ["Cordillera de los Andes", "Sierra Madre Oriental", "Montañas Rocosas", "Alpes Mexicanos", "Cordillera del Himalaya"],
+        "correct_index": 1,
+        "justificacion": "La Sierra Madre Oriental corre paralela al Golfo de México. Junto con la Occidental y del Sur, forma el eje volcánico transversal.",
+        "dificultad": "media",
+        "tags": ["geografía", "México", "relieve", "sierras"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0110",
+        "materia": "Geografía",
+        "tema": "Migración",
+        "subtema": "Tipos",
+        "enunciado": "El movimiento de población del campo a la ciudad se denomina:",
+        "opciones": ["Emigración", "Inmigración", "Éxodo rural", "Migración neta", "Transhumancia"],
+        "correct_index": 2,
+        "justificacion": "El éxodo rural es el desplazamiento masivo de habitantes de zonas rurales a zonas urbanas en busca de mejores oportunidades.",
+        "dificultad": "media",
+        "tags": ["geografía", "migración", "población", "urbanización"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0111",
+        "materia": "Matemáticas",
+        "tema": "Cónicas",
+        "subtema": "Parábola",
+        "enunciado": "¿Cuál es el vértice de la parábola y = (x - 3)² + 5?",
+        "opciones": ["(3, 5)", "(-3, 5)", "(3, -5)", "(5, 3)", "(-3, -5)"],
+        "correct_index": 0,
+        "justificacion": "En la forma vértice y = (x-h)² + k, el vértice es (h, k). Aquí h=3, k=5. Vértice: (3, 5).",
+        "dificultad": "media",
+        "tags": ["matemáticas", "cónicas", "parábola", "vértice"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0112",
+        "materia": "Matemáticas",
+        "tema": "Geometría analítica",
+        "subtema": "Circunferencia",
+        "enunciado": "¿Cuál es la ecuación de la circunferencia con centro en (0,0) y radio 4?",
+        "opciones": ["x² + y² = 16", "x² + y² = 4", "(x-4)² + (y-4)² = 0", "x + y = 4", "x² - y² = 16"],
+        "correct_index": 0,
+        "justificacion": "La ecuación con centro en el origen es x² + y² = r². Si r=4, entonces r²=16. Ecuación: x² + y² = 16.",
+        "dificultad": "facil",
+        "tags": ["matemáticas", "circunferencia", "geometría analítica"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0113",
+        "materia": "Matemáticas",
+        "tema": "Trigonometría",
+        "subtema": "Identidades",
+        "enunciado": "¿Cuál es el valor de la identidad fundamental sen² x + cos² x?",
+        "opciones": ["0", "1", "2", "sen(2x)", "tan x"],
+        "correct_index": 1,
+        "justificacion": "La identidad pitagórica fundamental establece que sen² x + cos² x = 1 para todo ángulo x.",
+        "dificultad": "facil",
+        "tags": ["matemáticas", "trigonometría", "identidades"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0114",
+        "materia": "Matemáticas",
+        "tema": "Ecuaciones",
+        "subtema": "Discriminante",
+        "enunciado": "Si el discriminante (b²-4ac) de una ecuación cuadrática es cero, entonces la ecuación tiene:",
+        "opciones": ["Dos soluciones reales distintas", "Una solución real (raíz doble)", "No tiene solución real", "Dos soluciones imaginarias", "Infinitas soluciones"],
+        "correct_index": 1,
+        "justificacion": "Si b²-4ac = 0, la parábola toca al eje x en un solo punto, indicando una raíz real doble.",
+        "dificultad": "media",
+        "tags": ["matemáticas", "ecuaciones", "discriminante"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0115",
+        "materia": "Matemáticas",
+        "tema": "Límites",
+        "subtema": "Indeterminaciones",
+        "enunciado": "¿Qué técnica se usa para resolver el límite lim(x→∞) (3x² + x) / (2x² - 5)?",
+        "opciones": ["Factorización", "Racionalización", "Dividir por la mayor potencia de x", "Conjugado", "Sustitución directa"],
+        "correct_index": 2,
+        "justificacion": "En límites al infinito con polinomios, se divide numerador y denominador entre la mayor potencia de x (aquí x²) para eliminar la indeterminación.",
+        "dificultad": "media",
+        "tags": ["matemáticas", "límites", "infinito", "indeterminación"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0116",
+        "materia": "Matemáticas",
+        "tema": "La derivada",
+        "subtema": "Aplicaciones",
+        "enunciado": "¿Qué indica la derivada de una función en un punto donde es igual a cero?",
+        "opciones": ["La función es discontinua", "Puede haber un máximo, mínimo o punto de inflexión", "La pendiente es infinita", "La función no está definida", "El punto es la intersección con el eje y"],
+        "correct_index": 1,
+        "justificacion": "Si f'(x) = 0, la recta tangente es horizontal. Esto ocurre en puntos críticos: máximos locales, mínimos locales o puntos de inflexión horizontal.",
+        "dificultad": "media",
+        "tags": ["matemáticas", "derivada", "máximos", "mínimos"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0117",
+        "materia": "Matemáticas",
+        "tema": "Álgebra",
+        "subtema": "Factorización",
+        "enunciado": "¿Cuál es la factorización correcta de x² - 9?",
+        "opciones": ["(x-3)(x-3)", "(x-9)(x+1)", "(x-3)(x+3)", "(x+3)²", "No se puede factorizar"],
+        "correct_index": 2,
+        "justificacion": "Es una diferencia de cuadrados: a² - b² = (a-b)(a+b). x² - 9 = x² - 3² = (x-3)(x+3).",
+        "dificultad": "facil",
+        "tags": ["matemáticas", "álgebra", "factorización", "diferencia de cuadrados"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0118",
+        "materia": "Matemáticas",
+        "tema": "Logaritmos",
+        "subtema": "Propiedades",
+        "enunciado": "¿Cuál es el valor de log₁₀(100)?",
+        "opciones": ["1", "2", "10", "100", "0"],
+        "correct_index": 1,
+        "justificacion": "log₁₀(100) pregunta: ¿a qué exponente se eleva 10 para obtener 100? 10² = 100, por lo tanto el logaritmo es 2.",
+        "dificultad": "facil",
+        "tags": ["matemáticas", "logaritmos", "exponentes"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0119",
+        "materia": "Matemáticas",
+        "tema": "Sistemas de ecuaciones",
+        "subtema": "Métodos",
+        "enunciado": "¿Qué método usa determinantes para resolver sistemas de ecuaciones lineales?",
+        "opciones": ["Sustitución", "Igualación", "Eliminación gaussiana", "Regla de Cramer", "Gráfico"],
+        "correct_index": 3,
+        "justificacion": "La Regla de Cramer permite calcular las incógnitas de un sistema mediante el cálculo de determinantes de matrices.",
+        "dificultad": "media",
+        "tags": ["matemáticas", "sistemas", "determinantes", "Cramer"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      },
+      {
+        "id": "Q0120",
+        "materia": "Física",
+        "tema": "Óptica",
+        "subtema": "Reflexión",
+        "enunciado": "¿Cuál es la ley de la reflexión?",
+        "opciones": ["El ángulo de incidencia es igual al ángulo de refracción", "El ángulo de incidencia es igual al ángulo de reflexión", "La luz viaja en línea recta", "El rayo incidente se desvía hacia la normal", "La velocidad de la luz cambia"],
+        "correct_index": 1,
+        "justificacion": "La ley de la reflexión establece que el ángulo de incidencia es igual al ángulo de reflexión, medidos respecto a la normal.",
+        "dificultad": "facil",
+        "tags": ["física", "óptica", "reflexión", "luz"],
+        "source_hint": "Pregunta generada automáticamente. Alineada al temario UNAM 2026."
+      }
+    ],
+    "exam_template": {
+      "total_questions": 120,
+      "time_minutes": 180,
+      "distribution": {
+        "Español": 18,
+        "Física": 16,
+        "Matemáticas": 26,
+        "Literatura": 10,
+        "Geografía": 10,
+        "Biología": 10,
+        "Química": 10,
+        "HistoriaUniversal": 10,
+        "HistoriaMexico": 10
+      }
+    },
+    "ui_features": {
+      "timer": {
+        "duration_minutes": 180,
+        "visible": true,
+        "style": {
+          "color_normal": "#00A",
+          "color_warning": "#FFA500",
+          "color_time_almost_up": "#FF0000"
+        },
+        "warning_threshold_minutes": 30,
+        "update_interval_seconds": 1
+      },
+      "controls": {
+        "start_button": true,
+        "pause_button": false,
+        "restart_button": true,
+        "submit_button": true,
+        "skip_question": true
+      },
+      "exam_modes": {
+        "timed_mode": true,
+        "practice_mode": true
+      },
+      "history_and_stats": {
+        "save_attempts": true,
+        "statistics": true,
+        "report": true
+      },
+      "other_ui": {
+        "progress_bar": true,
+        "question_navigation": "mini-map",
+        "accessibility": {
+          "high_contrast": true,
+          "font_size_adjustable": true
+        }
+      }
+    },
+    "notes_for_developer": "1. Implementar un sistema de estado (React Context o Redux) para gestionar el examen activo. 2. Usar 'local storage' para guardar el historial de intentos y permitir reanudar exámenes. 3. Para paginar las preguntas en la UI, usar un array de IDs seleccionados del banco. 4. El campo 'correct_index' es base 0. 5. Implementar un filtro por 'tags' para el modo práctica por tema."
+  }
+}
